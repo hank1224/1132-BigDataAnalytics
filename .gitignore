@@ -5,3 +5,6 @@
 
 # all csv file
 *.csv
+
+database
+all_categories.txt

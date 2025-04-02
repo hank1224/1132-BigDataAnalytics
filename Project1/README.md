@@ -8,7 +8,7 @@
 docker-compose up -d
 ```
 
-然後就可以從 [localhost:8081](localhost:8081) 存取 MongoExpress 介面。
+然後就可以從 [localhost:8081](http://localhost:8081) 存取 MongoExpress 介面。
 
 ## 寫入資料進資料庫
 
@@ -18,11 +18,11 @@ docker-compose up -d
 pip install pymongo pandas
 ```
 
-**下載老師給的資料集 `Reviews_withURL.csv` 放在這個目錄下。**
+**下載老師給的資料集 `Reviews_withURL.csv` 放在 /Project1 目錄裡。**
 
-然後執行[`insert_csv.py`](insert-csv.py)，
+然後執行 [insert_csv.py](insert-csv.py)，
 
-執行完後可以去 MongoExpress [localhost:8081](localhost:8081) 看看寫入的資料長怎樣。
+執行完後可以去 MongoExpress [localhost:8081](http://localhost:8081) 看看寫入的資料長怎樣。
 
 ### 寫入時有做一些轉換
 
@@ -34,7 +34,7 @@ pip install pymongo pandas
 
 ## 開始做資料分析作業
 
-檔案 [`start_work.ipynb`](./start-work.ipynb) 有做初步示範如何與資料庫做溝通，並且使用 pandas 做資料分析。
+檔案 [start_work.ipynb](./start-work.ipynb) 有做初步示範如何與資料庫做溝通，並且使用 pandas 做資料分析。
 
 這樣大家就可以在同一個環境下獨立作業了，但要互相溝通好才不會做重複的分析工作。（或許可以開一個 git repo 比較方便？）
 

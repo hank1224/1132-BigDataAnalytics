@@ -1,32 +1,33 @@
 import pandas as pd
 from pymongo import MongoClient
 
-# 連接到 MongoDB (請替換成你的 MongoDB 連線資訊)
-client = MongoClient('mongodb://localhost:27017/')  # 預設本機連線
-db = client['mydatabase']  # 選擇或創建資料庫 (請替換成你的資料庫名稱)
-collection = db['reviews']  # 選擇或創建 Collection (請替換成你的 Collection 名稱)
+# 連接到 MongoDB
+client = MongoClient('mongodb://localhost:27017/') # 預設本機連線
+db = client['mydatabase']  # 選擇或創建資料庫
+collection = db['reviews']  # 選擇或創建 Collection
 
 # 讀取 CSV 檔案
-### 注意編碼 ###
-df = pd.read_csv("Reviews_withURL.csv", encoding='utf-8')
+# 有找到 Kaggle 資料來源，只差在沒有 URL 欄位，但沒差，ProductId 就是沒有網域的 URL 資料，可以直接替代。
+# https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+df = pd.read_csv("./Project1/Reviews_withURL.csv", encoding='utf-8')
 
 # 轉換 DataFrame 為字典列表，並調整 Document 結構
 data = []
 for record in df.to_dict(orient="records"):
     # 建立新的 Document 結構，將 ProductURL 放入 ProductInfo
     restructured_record = {
-        "ProductId": record.get("ProductId"), # 使用 .get() 避免 KeyError
+        "ProductId": record.get("ProductId"), 
         "ProductInfo": {
-            "URL": record.get("ProductURL")  # 使用 .get() 避免 KeyError
+            "URL": record.get("ProductURL")  
         },
-        "UserId": record.get("UserId"),      # 使用 .get() 避免 KeyError
-        "ProfileName": record.get("ProfileName"), # 使用 .get() 避免 KeyError
-        "HelpfulnessNumerator": record.get("HelpfulnessNumerator"), # 使用 .get() 避免 KeyError
-        "HelpfulnessDenominator": record.get("HelpfulnessDenominator"), # 使用 .get() 避免 KeyError
-        "Score": record.get("Score"),        # 使用 .get() 避免 KeyError
-        "Time": record.get("Time"),         # 使用 .get() 避免 KeyError
-        "Summary": record.get("Summary"),     # 使用 .get() 避免 KeyError
-        "Text": record.get("Text"),          # 使用 .get() 避免 KeyError
+        "UserId": record.get("UserId"),      
+        "ProfileName": record.get("ProfileName"), 
+        "HelpfulnessNumerator": record.get("HelpfulnessNumerator"), 
+        "HelpfulnessDenominator": record.get("HelpfulnessDenominator"), 
+        "Score": record.get("Score"),        
+        "Time": record.get("Time"),         
+        "Summary": record.get("Summary"),     
+        "Text": record.get("Text"),          
         # 保留原有的 Id (如果需要，或者可以考慮移除，MongoDB 會自動生成 _id)
         "Id": record.get("Id")
     }
@@ -46,11 +47,6 @@ collection.create_index([("Time", -1)], name="time_index")         # 為 Time �
 collection.create_index([("Score", 1)], name="score_index")        # 為 Score 建立升序索引，並命名索引
 
 print("已建立索引：ProductId, UserId, Time, Score")
-
-# 測試查詢剛剛插入的資料 (查詢 ProductId 為 'B001E4KFG0' 的第一筆資料)
-found_data = collection.find_one({"ProductId": "B001E4KFG0"})
-print("\n查詢 ProductId 為 'B001E4KFG0' 的第一筆資料：")
-print(found_data)
 
 # 測試查詢剛剛插入的資料 (顯示第一筆資料，確認結構)
 found_data_first = collection.find_one()
