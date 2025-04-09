@@ -1,8 +1,8 @@
-# 如何架 Project_1 環境
+# Analyze Amazon Review by MongoDB
 
-資料集：https://www.kaggle.com/api/v1/datasets/download/arhamrumi/amazon-product-reviews
+使用資料集：[Amazon Product Reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)
 
-跟老師給的檔案一致，已檢查。
+我來才發現老師有給[來源](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)，希望這檔案跟老師給的一致（應該是一樣的啦）。
 
 ## 從頭建立 MongoDB 分析資料庫
 
@@ -16,7 +16,7 @@ docker-compose up -d
 
 完整流程請看 [data-preprocess/README_zh.md](./data-preprocess/README_zh.md)。
 
-**注意！** [mongodb_nlp_processing.py](./data-preprocess/mongodb_nlp_processing.py) 處理需要大約四小時。
+**注意！** [mongodb_nlp_processing.py](./data-preprocess/mongodb_nlp_processing.py) 處理需要**大約四小時**。
 
 執行完後可以去 MongoExpress [localhost:8081](http://localhost:8081) 看看寫入的資料長怎樣。
 
@@ -46,7 +46,7 @@ docker-compose up -d
 
 資料集共有 74250 不同的產品，雖然可以從 URL 爬蟲取得商品資訊，但一定會被鎖。
 
-所以我嘗試從其他資料集 match 相同產品 ID 的資料，見 [match_products.ipynb](./data-preprocess/match-product-metadata/match_products.ipynb)，跑完需要五小時。
+所以我嘗試從其他資料集 match 相同產品 ID 的資料，見 [match_products.ipynb](./data-preprocess/match-product-metadata/match_products.ipynb)，跑完**需要五小時**。
 
 但也只 match 到 33817 筆 商品，接近 50% 的資料。
 
@@ -65,6 +65,53 @@ docker-compose up -d
     ```
 
 3. 到 MongoExpress [localhost:8081](http://localhost:8081) 檢查資料格式是否與下面提供的一致。
+
+### Collection: `reviews`
+```
+{
+  _id: ObjectId,                      // MongoDB 自動產生的唯一識別碼
+  ProductId: String,                   // 產品 ID
+  UserId: String,                      // 使用者 ID
+  ProfileName: String,                // 使用者名稱
+  HelpfulnessNumerator: Number (Integer),   // 認為評論有幫助的人數
+  HelpfulnessDenominator: Number (Integer), // 評論總共被評估為有幫助的人數
+  Score: Number (Integer),                // 評論分數 (例如 1-5)
+  Time: Number (Integer/Timestamp),       // 評論的時間 (Unix 時間戳記)
+  Summary: String,                     // 評論標題
+  Text: String,                        // 完整評論文字
+  Keywords: Array (String),            // 關鍵字列表 (字串陣列)
+  Lemmas: Array (String),             // 詞元列表 (字串陣列)
+  Named_entities: Array (Array (String)),  // 命名實體列表 (二維字串陣列，例如 [['Vitality', 'ORG']])
+  POS_tags: Array (Array (String)),     // 詞性標籤列表 (二維字串陣列，例如 [['buy', 'VERB']])
+  Sentiment_score: Number (Float),          // 情感分數 (浮點數)
+  Text_cleaned: String,                // 清理後的評論文字
+  Tokens: Array (String),              // 分詞列表 (字串陣列)
+  Tokens_processed: Array (String)       // 處理後的分詞列表 (字串陣列)
+}
+```
+
+### Collection: `products`
+```
+{
+  _id: ObjectId,                      // MongoDB 自動產生的唯一識別碼
+  main_category: String,                // 主要分類
+  title: String,                       // 商品標題
+  average_rating: Number (Float),       // 平均評分 (浮點數)
+  rating_number: Number (Integer),      // 評分人數 (整數)
+  features: Array,                    // 商品特色 (陣列，可能包含字串或物件)
+  description: String,                 // 商品描述 (字串，可能包含 JSON 字串)
+  price: null,                        // 商品價格 (可以為空值)
+  images: Object,                     // 商品圖片 (物件，結構未知)
+  videos: Object,                     // 商品影片 (物件，結構未知)
+  store: null,                        // 商店名稱 (可以為空值)
+  categories: Array,                   // 商品分類 (陣列，可能包含字串)
+  details: Object,                    // 商品詳細資訊 (物件，鍵值對形式)
+  parent_asin: String,                // 父 ASIN (亞馬遜商品識別碼)
+  bought_together: Array,             // 一起購買的商品 (陣列，可能包含 ASIN)
+  subtitle: null,                      // 副標題 (可以為空值)
+  author: null                         // 作者 (可以為空值)
+}
+```
 
 
 ## 開始做資料分析作業
