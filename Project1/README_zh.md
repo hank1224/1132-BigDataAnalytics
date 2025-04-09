@@ -1,5 +1,9 @@
 # 如何架 Project_1 環境
 
+資料集：https://www.kaggle.com/api/v1/datasets/download/arhamrumi/amazon-product-reviews
+
+跟老師給的檔案一致，已檢查。
+
 ## 從頭建立 MongoDB 分析資料庫
 
 ```bash
@@ -22,13 +26,37 @@ docker-compose up -d
 
 1. **新增 `_id` 欄位：** MongoDB 自動為每個文檔新增唯一的 `_id` 欄位。
 2. **移除 csv 自帶的 `id`：** 原始 CSV 檔案的 `id` 欄位被移除，因為它是多餘的。
-2. **並沒有 `ProductURL`：** ProductId 加上 `https://www.amazon.com/dp/` 即是 ProductURL。
+3. **並沒有 `ProductURL`：** ProductId 加上 `https://www.amazon.com/dp/` 即是 ProductURL。
+4. **建立 indexes：** 用於增加查詢效率。
+    - _id_
+    - product_id_idx
+    - user_id_idx
+    - product_time_idx
+    - product_score_idx
+    - time_idx
+    - text_content_idx
+    - sentiment_score_idx
+    - keywords_idx
+    - named_entities_label_idx
+    - named_entities_text_idx
+    - lemmas_idx
+    - pos_tags_idx
+
+### （可選）加入 Product Metadata
+
+資料集共有 74250 不同的產品，雖然可以從 URL 爬蟲取得商品資訊，但一定會被鎖。
+
+所以我嘗試從其他資料集 match 相同產品 ID 的資料，見 [match_products.ipynb](./data-preprocess/match-product-metadata/match_products.ipynb)，跑完需要五小時。
+
+但也只 match 到 33817 筆 商品，接近 50% 的資料。
+
+跑完再用 [mongodb_products_metadata.py](./data-preprocess/match-product-metadata/mongodb_products_metadata.py) 寫入資料庫。
 
 ## For 巨量第七組組員，請這樣做
 
 1. 刪除此目錄的內的所有檔案 `1132-BigDataAnalytics/Project1/database/data`。
 
-2. 下載我的整包資料庫 docker vloume，然後放進 `/data` 內（**注意： `/data` 資料夾只會有一個，不會是兩層 `/data/data` ！**）。
+2. 下載我的整包資料庫然後放進 `database/` 內（放入後路徑會是這樣：Project1/database/data/...）。
 
 3. 啟動 MongoDB 和 MongoExpress：
 
