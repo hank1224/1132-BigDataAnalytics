@@ -5,6 +5,7 @@
 
 # all csv file
 *.csv
+*.zip
 
 database
 all_categories.txt
