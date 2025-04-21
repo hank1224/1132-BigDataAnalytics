@@ -2,7 +2,7 @@
 
 >中文版說明： [README_zh](./README_zh.md)
 
-Using Dataset: [Amazon Product Reviews](https://www.kaggle.com/api/v1/datasets/download/arhamrumi/amazon-product-reviews)
+Using Dataset: [Amazon Product Reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)
 
 ## Group 7 Member Contributions
 
