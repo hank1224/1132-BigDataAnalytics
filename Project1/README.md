@@ -1,10 +1,31 @@
 # Analyze Amazon Review by MongoDB
 
+>中文版說明： [README_zh](./README_zh.md)
+
 Using Dataset: [Amazon Product Reviews](https://www.kaggle.com/api/v1/datasets/download/arhamrumi/amazon-product-reviews)
 
-Teacher Provided: [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+## Group 7 Member Contributions
 
-Hopefully, the dataset is consistent with the one provided by the teacher.
+*   **Environment Setup, Data Preprocessing, and Basic NLP Processing**:
+    *   M11351002 陳澔恩 ([Hank](https://github.com/hank1224))
+    *   Related Code: [Data Preprocessing](./data-preprocess/)
+
+*   **NAPL Product Preference, Sentiment Analysis, and Keyword Analysis**:
+    *   B11001019 傅煒宸 ([Weichen20021223](https://github.com/Weichen20021223))
+    *   B11001137 許庭瑄 ([crazipig](https://github.com/crazipig))
+    *   Related Analysis Notebook: [NAPL Analysis](./analyzing-code/NAPL-NLP.ipynb)
+
+*   **Time-Series Analysis of Popular Product Review Trends and Bundled Product Exploration**:
+    *   M11351015 李國禎 ([M11351015](https://github.com/M11351015))
+    *   Related Analysis Notebook: [Popular and Bundle Product Analysis](./analyzing-code/Popular-and-Bundle-Product.ipynb)
+
+*   **Random Forest Model Construction and Keyword Extraction from Reviews**:
+    *   M11301302 黃冠翔 ([Kuan-Sean](https://github.com/Kuan-Sean))
+    *   Related Analysis Notebook: [Random Forest and Keyword Analysis](./analyzing-code/RandomForest-Keyword.ipynb)
+
+*   **Project Slides and Presentation Preparation**:
+    *   M11301108 周易儒
+    *   Final Project Presentation (PDF): [Presentation](./presentation.pdf)
 
 ## Build MongoDB Analysis Database from Scratch
 
@@ -99,3 +120,10 @@ After running the matching process, use [mongodb_products_metadata.py](./data-pr
   subtitle: null,                      // Subtitle (can be null)
   author: null                         // Author (can be null)
 }
+```
+
+## Contributions
+
+<a href="https://github.com/hank1224/1132-BigDataAnalytics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hank1224/1132-BigDataAnalytics" />
+</a>

@@ -4,6 +4,30 @@
 
 我來才發現老師有給[來源](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)，希望這檔案跟老師給的一致（應該是一樣的啦）。
 
+## 第七組 組員分工
+
+*   **環境設置、數據前處理與基礎 NLP 處理**:
+    *   [M11351002 陳澔恩](https://github.com/hank1224)
+    *   相關程式碼: [數據前處理](./data-preprocess/)
+
+*   **NAPL 產品偏好、情感分析與關鍵詞分析**:
+    *   [B11001019 傅煒宸](https://github.com/Weichen20021223)
+    *   [B11001137 許庭瑄](https://github.com/crazipig)
+    *   相關分析 Notebook: [NAPL 分析](./analyzing-code/NAPL-NLP.ipynb)
+
+*   **熱門產品時序性評論趨勢分析與捆綁產品探討**:
+    *   [M11351015 李國禎](https://github.com/M11351015)
+    *   相關分析 Notebook: [熱門與捆綁產品分析](./analyzing-code/Popular-and-Bundle-Product.ipynb)
+
+*   **隨機森林模型建構與評論中關鍵詞萃取**:
+    *   [M11301302 黃冠翔](https://github.com/Kuan-Sean)
+    *   相關分析 Notebook: [隨機森林與關鍵詞分析](./analyzing-code/RandomForest-Keyword.ipynb)
+
+*   **專案投影片與簡報製作**:
+    *   M11301108 周易儒
+    *   最終專案簡報 (PDF) [Presentation](./presentation.pdf)
+
+
 ## 從頭建立 MongoDB 分析資料庫
 
 ```bash
@@ -121,3 +145,9 @@ docker-compose up -d
 這樣大家就可以在同一個環境下獨立作業了，但要互相溝通好才不會做重複的分析工作。
 
 **獨立作業時注意: 請不要有更動資料庫裡資料的操作，避免後續程式碼整合不起來。**
+
+## Contributions
+
+<a href="https://github.com/hank1224/1132-BigDataAnalytics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hank1224/1132-BigDataAnalytics" />
+</a>
