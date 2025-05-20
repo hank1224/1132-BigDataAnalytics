@@ -1,0 +1,12 @@
+[
+  {
+    "audio_filepath": "S01_P01.wav",
+    "offset": 0,
+    "duration": null,
+    "label": "infer",
+    "text": "not available",
+    "num_speakers": null,
+    "rttm_filepath": "output\\pred_rttms\\example.rttm",
+    "uem_filepath": ""
+  }
+]
