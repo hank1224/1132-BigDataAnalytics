@@ -3,6 +3,7 @@
 
 .env
 .venv
+*.log
 
 # all csv file
 *.csv
