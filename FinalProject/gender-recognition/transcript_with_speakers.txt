@@ -1,0 +1,834 @@
+[0.7s - 1.8s] SPEAKER_11: Back in 1994.
+[2.4s - 5.5s] SPEAKER_11: This is back in the days when people still delivered big news to each other by mail.
+[6.3s - 9.5s] SPEAKER_11: Two women who barely knew each other, Martha Miller and Susan McDonald.
+[10.0s - 11.6s] SPEAKER_11: Got a letter from Martha's mom.
+[12.0s - 16.0s] SPEAKER_03: Dear Martha and Sue, Have you ever suspected or been told
+[16.2s - 19.4s] SPEAKER_03: that we took home the baby that belonged to Kay and Bob McDonald.
+[20.2s - 23.2s] SPEAKER_03: and they later took home the baby that belonged to us.
+[23.9s - 24.8s] SPEAKER_11: That's Martha reading.
+[25.2s - 48.8s] SPEAKER_11: And the purpose of this letter is that Mrs. Miller is breaking the news, 43 years after the fact, to Martha and Sue that she took the wrong baby home from the hospital. That Martha and Sue were switched at birth. That she's not Martha's biological mom. She Sue's. And part of what makes this so strange is that this wasn't the sort of thing where Mrs. Miller figured this out to her surprise after decades of wondering and pondering and paid and staking detective work. No, no, no.
+[49.1s - 52.9s] SPEAKER_11: She knew it the day she got home from the hospital in 1951.
+[53.4s - 54.5s] SPEAKER_11: that she had the wrong baby.
+[55.1s - 57.3s] SPEAKER_11: I may be born to a woman named Kay McDonald.
+[57.8s - 59.5s] SPEAKER_11: And she kept it quiet all those years.
+[60.4s - 63.8s] SPEAKER_11: Here is how Mrs. Miller explained that in the letter.
+[64.2s - 66.8s] SPEAKER_11: The other daughter in this baby switch, Sue.
+[66.9s - 69.7s] SPEAKER_11: who was born to Mrs. Miller, the woman writing the letter.
+[70.2s - 72.7s] SPEAKER_11: but raised by Kay McDonald, the other woman.
+[73.3s - 73.8s] SPEAKER_11: reads
+[74.6s - 78.6s] SPEAKER_08: I had complete anesthesia, so was asleep when our baby was born.
+[79.1s - 84.0s] SPEAKER_08: The nurse weighed the baby and must have left her in the delivery room until after Kay's baby was born.
+[84.5s - 85.9s] SPEAKER_08: very soon after mine.
+[86.8s - 90.5s] SPEAKER_03: When we took our baby home, she sneezed five times in a row.
+[91.0s - 93.9s] SPEAKER_11: Again, Martha Miller, who now goes by Marty.
+[94.3s - 96.7s] SPEAKER_11: who once was the baby who sneezed five times in a row.
+[97.0s - 99.9s] SPEAKER_03: I thought that was strange. Never had that happen.
+[100.2s - 101.9s] SPEAKER_03: with any of our others.
+[102.3s - 104.0s] SPEAKER_03: We had a baby scale at home.
+[104.6s - 108.2s] SPEAKER_03: When I weighed the baby, she weighed 2.5 pounds less.
+[108.5s - 109.6s] SPEAKER_03: than her birth weight.
+[110.3s - 111.0s] SPEAKER_03: I was sure that I was going to be able to do it.
+[111.0s - 112.7s] SPEAKER_08: then that there had been a mix-up.
+[113.4s - 118.2s] SPEAKER_08: I talked to Norbert about it, but he did not want to disgrace our good Dr. Deslux.
+[118.9s - 124.0s] SPEAKER_08: A week or so after the baby's birth, I was reaching for something way back in the attic closet.
+[124.5s - 125.6s] SPEAKER_08: and started to hemorrhage.
+[126.1s - 127.5s] SPEAKER_08: then went into convulsions.
+[128.2s - 132.3s] SPEAKER_08: back to the hospital for several days and despair for my life.
+[132.9s - 135.5s] SPEAKER_08: So I dropped the mix-up baby pursuit.
+[136.6s - 147.7s] SPEAKER_03: As Martha grew, she did not look nor act like any other children. She was a delight to all of us, so pretty, so photogenic, so full of life.
+[151.0s - 153.6s] SPEAKER_03: Our other children were very serious.
+[154.8s - 157.0s] SPEAKER_03: Martha excelled in music.
+[157.3s - 161.0s] SPEAKER_03: was a great cheerleader at school, very popular, and a blonde.
+[161.9s - 163.7s] SPEAKER_03: our other children had dark hair.
+[165.4s - 168.8s] SPEAKER_03: and all-needed glasses for nearsightedness.
+[169.1s - 170.9s] SPEAKER_03: Martha did not need glasses.
+[171.8s - 192.8s] SPEAKER_08: Finally, on July 10, 1994, Norbert was willing to go to Kay and Bob McDonald's 50th wedding anniversary celebration at Prairie du Chien, United Methodist Church. When he saw you, Sue, he said, I don't need a DNA test. Sue is ours. She looks just like Mary Lydia. Would make a good twin to her.
+[193.7s - 195.9s] SPEAKER_08: That is why I wanted to write this letter.
+[196.4s - 199.7s] SPEAKER_03: So now we are both aware of what happened.
+[200.0s - 200.1s] SPEAKER_03: Thank you.
+[200.4s - 203.8s] SPEAKER_03: 43 years ago. We love you, Martha Jane.
+[206.6s - 207.4s] SPEAKER_03: I'm sorry.
+[210.2s - 213.9s] SPEAKER_03: We love you, Martha Jane, as dearly as our other six children.
+[216.1s - 220.1s] SPEAKER_03: I think you know that you will always be our daughter.
+[220.7s - 233.3s] SPEAKER_03: but I thought each of you should know your biological and spiritual backgrounds. I know you have mixed feelings about this revelation. I have much anguish and many tears.
+[233.3s - 233.4s] SPEAKER_08: Thank you.
+[233.4s - 233.4s] SPEAKER_03: Thank you.
+[234.0s - 237.5s] SPEAKER_08: but I feel I must get this out in the open so you two know.
+[238.1s - 242.0s] SPEAKER_08: How wonderful that you both are Christians and great workers in the church.
+[243.1s - 245.6s] SPEAKER_08: Do let me hear from you. I love you both.
+[246.1s - 249.0s] SPEAKER_08: Thanks and Jesus lead you in this time.
+[249.3s - 251.8s] SPEAKER_08: Happy 43rd birthday to you, Sue.
+[252.1s - 253.1s] SPEAKER_03: And to you, Martha.
+[253.9s - 256.0s] SPEAKER_03: lovingly your mom mary
+[253.9s - 256.5s] SPEAKER_08: Lovingly, your mom, Mary Kay Miller.
+[263.2s - 268.6s] SPEAKER_11: So at this point, you're probably wondering why in the world didn't Mrs. Miller straighten this out quicker?
+[269.3s - 278.2s] SPEAKER_11: Why did she listen to her husband back in 1951? Why the big concern about disgracing the doctor over, you know, having the wrong baby?
+[279.4s - 294.0s] SPEAKER_11: And as you heard in the letter, one thing that makes this whole thing even stranger is that the two couples knew each other. The Millers were at the McDonald's anniversary party. They had mutual acquaintances. They lived a short drive from each other's houses in Wazika and Puritishim, Wisconsin.
+[295.1s - 302.0s] SPEAKER_11: And when Mrs. Miller finally let everybody know the truth, long after both girls were grown up with children of their own, it was disruptive.
+[302.9s - 305.4s] SPEAKER_11: That is the kind of news nobody ever wants to hear.
+[306.4s - 308.1s] SPEAKER_11: And when you get this kind of news as an adult,
+[308.6s - 310.4s] SPEAKER_11: that your mom isn't really your mom.
+[311.0s - 312.5s] SPEAKER_11: Or your daughter isn't really your daughter.
+[313.4s - 316.5s] SPEAKER_11: And at the same time, you have a new mom or a new daughter.
+[316.9s - 322.1s] SPEAKER_11: It is not so clear what you're supposed to do with this new parent or new child who's now in your life.
+[323.0s - 324.5s] SPEAKER_11: What are you supposed to be with each other?
+[325.4s - 330.1s] SPEAKER_11: And both Marty and Sue worried that the families they'd always thought were theirs would still want to keep them.
+[330.7s - 336.8s] SPEAKER_11: and both mothers and daughters each had to figure it out on their own. All four women say things got very lonely for them.
+[337.1s - 374.8s] SPEAKER_11: Today on our show, we hear what happens when somebody takes your family and throws it up in the air like a deck of cards. From WBC Chicago, it's This American Life. I'm Ira Glass. We're devoting the full hour today to what happened to these two families. Jake Halpern is the reporter. And before he starts, just to help you keep everybody straight in this story, a quick overview of the two families. The Millers are the bespectacled, dark-haired ones from the letter. Mrs. Miller's husband, the Reverend Norbert Miller, was an evangelical preacher. They were devoted to the church, and they were a bookish, serious bunch. This was a house with a lot of rules, and there were a lot of kids, too. Seven kids in all.
+[375.6s - 389.5s] SPEAKER_11: The McDonalds are the light-haired ones from the letter. And it is a much smaller family, just two kids. And the feeling in their house was very different from the feeling in the Millers' house. They were easygoing, quick to laugh and joke around. Mr. McDonald ran a TV repair shop in town.
+[390.4s - 391.2s] SPEAKER_11: Here's Jake Halperin.
+[391.9s - 397.6s] SPEAKER_00: It was the four women at the center of all this, the two moms and the two daughters, who were affected more than anyone.
+[398.2s - 404.1s] SPEAKER_00: So let's take them one by one, starting with Sue, Mrs. Miller's baby, who was raised by the McDonald's.
+[405.6s - 417.6s] SPEAKER_00: Before the letter arrived, the facts of Sue's life had seemed pretty orderly. She was a married mother of three living in Michigan, where her husband worked as a chemist. She was close to her mother. She called and visited her parents regularly.
+[417.7s - 420.6s] SPEAKER_00: She also had an older brother, Bob, named after their dad.
+[420.8s - 422.1s] SPEAKER_00: It was all pretty straightforward.
+[422.9s - 429.2s] SPEAKER_00: And yes, Sue was different from the rest of the family in certain ways. Dark and tall and skinny in a family that was none of those.
+[429.4s - 433.8s] SPEAKER_00: In a pretty light-hearted household, she was nervous, studious, serious.
+[434.2s - 435.7s] SPEAKER_00: But that didn't seem so strange.
+[436.2s - 439.3s] SPEAKER_08: In junior high, I remember my friend said to me,
+[439.8s - 443.9s] SPEAKER_08: you must be adopted because you do not look at all like your parents.
+[444.0s - 444.0s] SPEAKER_08: Thank you.
+[444.1s - 444.2s] SPEAKER_08: Thank you.
+[444.2s - 458.6s] SPEAKER_08: And I said, I don't know. I asked my mother, I said, am I adopted? And she said, oh, no, no. She says, I was pregnant, and you are my child. I wanted a baby, and you're my baby. You were not adopted.
+[459.3s - 460.4s] SPEAKER_00: So that convinced you.
+[461.6s - 463.8s] SPEAKER_08: Oh, yeah, that was enough. I mean, she...
+[464.0s - 465.0s] SPEAKER_08: That was right.
+[465.4s - 471.0s] SPEAKER_08: My mom said, oh, well, you just take after great-grandpa this or aunt so-and-so.
+[471.2s - 471.8s] SPEAKER_08: you know
+[472.2s - 474.4s] SPEAKER_08: So then I just forgot about the whole thing.
+[482.0s - 484.3s] SPEAKER_00: Years later, when she got the letter that told her the truth,
+[484.8s - 485.6s] SPEAKER_00: She was stunned.
+[486.2s - 488.8s] SPEAKER_00: and she knew she had to break the news to the McDonald's who'd raised her.
+[489.6s - 490.9s] SPEAKER_00: but she didn't call them right away.
+[491.6s - 494.9s] SPEAKER_00: Mr. McDonald had a bad heart, and she didn't know what the stress would do to him.
+[495.8s - 497.9s] SPEAKER_00: First, she wanted to be absolutely sure it was true.
+[498.8s - 502.9s] SPEAKER_00: Blood tests were done with the Millers, and they proved Mrs. Miller was right about the switch.
+[504.2s - 506.0s] SPEAKER_00: Weeks went by and Sue began to fret.
+[506.8s - 509.0s] SPEAKER_00: She wrote letters to her parents but didn't send them.
+[509.4s - 511.0s] SPEAKER_00: She worried her mother might reject her.
+[512.1s - 515.3s] SPEAKER_00: Sue knew her mother had never been a big fan of the Millers ever since they met.
+[516.1s - 517.0s] SPEAKER_00: And now, suddenly,
+[517.5s - 518.7s] SPEAKER_00: It turned out Sue was one of them.
+[519.2s - 522.4s] SPEAKER_08: It was confusing. And then after I knew that they were...
+[523.7s - 526.1s] SPEAKER_08: that I had been switched and that I had...
+[526.6s - 531.8s] SPEAKER_08: different genes and my parents kept talking about these people that were so odd.
+[532.5s - 536.4s] SPEAKER_08: the Millers, because they, Reverend Miller.
+[538.1s - 544.8s] SPEAKER_08: He is an evangelical preacher. You know, he wants people to know Jesus Christ and that they would be saved.
+[545.7s - 547.8s] SPEAKER_08: And I'm really like that too.
+[549.8s - 552.5s] SPEAKER_08: Sometimes my mom thinks I'm a little fanatical.
+[554.3s - 557.0s] SPEAKER_08: I'm really a Miller. You know, what does she think of me?
+[558.1s - 558.5s] SPEAKER_08: Amen.
+[558.7s - 560.5s] SPEAKER_08: That's my biological family.
+[562.8s - 564.2s] SPEAKER_08: So I did think.
+[564.7s - 565.6s] SPEAKER_08: Yeah, you know.
+[566.0s - 566.5s] SPEAKER_08: She's
+[567.4s - 573.9s] SPEAKER_08: She's going to know that's not my daughter, and she's going to get this popular Marty who's so fun-loving.
+[574.3s - 582.5s] SPEAKER_08: and looks like her, and then she's going to say, well, I don't need that daughter anymore. You know, she's part of that odd family, you know.
+[589.9s - 593.6s] SPEAKER_00: A month after she got the letter, Sue went to see her biological mother and father.
+[593.9s - 595.8s] SPEAKER_00: This is a videotape of that first meeting.
+[596.6s - 598.4s] SPEAKER_07: And who are these people? Now, this...
+[598.9s - 601.4s] SPEAKER_07: You tell them who that is. These are my... Is this your dad?
+[601.7s - 603.1s] SPEAKER_07: My dad? Right there.
+[603.2s - 604.0s] SPEAKER_00: who looks happy.
+[604.3s - 607.4s] SPEAKER_00: Reverend Miller is affectionate with her, putting his arm around her waist.
+[607.6s - 608.7s] SPEAKER_00: Everybody's smiling.
+[609.4s - 609.7s] SPEAKER_07: him.
+[609.7s - 612.4s] SPEAKER_00: Su now had four new sisters and two new brothers.
+[612.7s - 615.1s] SPEAKER_00: and the Millers show her pictures of her other relatives.
+[615.4s - 618.6s] SPEAKER_07: He's a roster ball. Right. He went to Oregon to get away from...
+[615.4s - 616.6s] SPEAKER_12: He's a roster bot. Right.
+[619.1s - 620.1s] SPEAKER_07: Got a girl in trouble, see.
+[620.4s - 620.6s] SPEAKER_12: Oh.
+[621.0s - 621.4s] SPEAKER_07: Yeah.
+[622.6s - 630.1s] SPEAKER_00: There's a lot of nervous laughter, and there are some awkward moments, like when Sue talks to Mrs. Miller about the fact that she never got enough breast milk as a baby.
+[630.6s - 633.1s] SPEAKER_06: My mother didn't have enough milk for me.
+[634.2s - 635.9s] SPEAKER_06: It's all your fault.
+[636.3s - 637.4s] SPEAKER_06: Did you have enough?
+[638.4s - 641.6s] SPEAKER_00: But overall, the Millers seem giddy that their daughter has finally come home.
+[642.0s - 643.3s] SPEAKER_00: and Sue seems eager to know them.
+[643.8s - 648.6s] SPEAKER_07: You look like her too. That's what I was thinking. And you look so much like her.
+[649.2s - 649.7s] SPEAKER_07: Carol.
+[650.5s - 654.4s] SPEAKER_00: Later that same day, Sue drove to the McDonald's, to the parents she'd grown up with.
+[655.9s - 661.5s] SPEAKER_00: After dinner, she sat down and told them about Mrs. Miller's letter. Told them point blank she wasn't their child.
+[662.3s - 664.0s] SPEAKER_00: At first they refused to believe her.
+[664.3s - 666.4s] SPEAKER_00: But then she told him about the blood tests.
+[667.2s - 670.8s] SPEAKER_00: Finally, Sue handed over all the letters that she hadn't sent them in the past month.
+[671.3s - 674.9s] SPEAKER_00: Letters telling them how much she loved them and how much she wanted to stay their daughter.
+[675.3s - 682.5s] SPEAKER_08: And like my dad said, you know, you are my child. I changed your diaper. And my mother, nothing was going to be different between us.
+[683.3s - 685.8s] SPEAKER_08: But it was just, it took a while for us to.
+[685.8s - 687.0s] SPEAKER_08: How are you going to think?
+[688.2s - 695.2s] SPEAKER_08: Mrs. Miller has for 43 years been longing to see the child she'd given birth to, so she's excited about it.
+[696.0s - 699.6s] SPEAKER_08: And my mother's like, what happened to my life? It exploded.
+[700.5s - 703.2s] SPEAKER_00: Once things calmed down, Sue came to two conclusions.
+[703.8s - 706.4s] SPEAKER_00: One, she wasn't going to become estranged from her mother.
+[707.0s - 707.5s] SPEAKER_00: And two,
+[708.3s - 709.8s] SPEAKER_00: It was her brother she might lose.
+[710.3s - 711.0s] SPEAKER_00: My name is
+[711.0s - 714.1s] SPEAKER_16: It's Bob McDonald, and I am...
+[714.2s - 716.5s] SPEAKER_16: 61 years old.
+[716.9s - 723.9s] SPEAKER_16: I would say that Sue and I were probably not that close.
+[724.4s - 725.4s] SPEAKER_16: for whatever reason.
+[726.1s - 727.7s] SPEAKER_00: The reason was pretty simple, actually.
+[728.3s - 729.7s] SPEAKER_00: They have almost nothing in common.
+[730.6s - 732.6s] SPEAKER_00: Bob is four and a half years older than Sue.
+[733.1s - 736.5s] SPEAKER_00: a sweet, jovial guy who never got along with his broody little sister.
+[737.2s - 738.8s] SPEAKER_00: And when Bob found out about Marty,
+[739.5s - 741.5s] SPEAKER_00: found out that she was his biological sister.
+[742.3s - 744.0s] SPEAKER_00: He called her right away in California.
+[744.3s - 745.6s] SPEAKER_16: When she got on the phone,
+[746.3s - 748.1s] SPEAKER_16: I was just totally blown away.
+[748.8s - 751.7s] SPEAKER_16: the way she pronounced her words.
+[751.8s - 754.4s] SPEAKER_16: were identical with the way my mother talked.
+[755.1s - 764.1s] SPEAKER_16: She could have been my aunt or my mother talking on the phone. I knew that she had to be my sister.
+[764.9s - 776.0s] SPEAKER_16: And I was super anxious to meet her in person. And until that time, we just talked all the time.
+[776.9s - 786.5s] SPEAKER_16: With every phone call that we made, you know, we opened up more to each other. And, you know, we had the same personality and we think so much alike.
+[787.9s - 789.0s] SPEAKER_08: My brother...
+[789.5s - 796.3s] SPEAKER_08: And Marty are just like thick as thieves, you know, it seems like. And whenever Marty comes to...
+[796.9s - 801.8s] SPEAKER_08: My hometown, she stays with my brother, and they stay up till all hours of the night talking.
+[802.6s - 808.3s] SPEAKER_00: For Sue, her brother's enthusiasm for Marty brought out every insecurity she suffered as a schoolgirl.
+[808.9s - 813.3s] SPEAKER_00: She didn't fit in. She didn't have the social ease that came so naturally to Bob and Marty.
+[813.6s - 814.8s] SPEAKER_08: He was popular.
+[815.3s - 822.9s] SPEAKER_08: And I wasn't. I was like a serious person. Nobody would dance with me at the dances. And I, you know, I wanted, he had a band. I mean.
+[823.8s - 826.0s] SPEAKER_08: I was shy or I was whatever.
+[827.7s - 832.7s] SPEAKER_08: And I wanted to be a cheerleader. I tried out for cheerleading. I just couldn't do it. You know, I didn't get picked.
+[834.4s - 839.7s] SPEAKER_00: As years went by, when there were family events with everyone, Sue would get anxious if Marty was there too.
+[840.8s - 842.4s] SPEAKER_00: Occasionally she'd break down and cry.
+[842.9s - 846.3s] SPEAKER_08: I remember at the wedding when my nephew got married.
+[847.2s - 860.9s] SPEAKER_08: My brother danced with everybody. He danced with Marty, and you can see they're just having so much fun and laughing together and just dancing away. And then he danced with my cousin. He danced with my mother. He danced with everybody. He didn't dance with me.
+[861.2s - 865.2s] SPEAKER_08: And here I am, you know, it's like I'm a teenager again and nobody dances with me.
+[865.9s - 867.1s] SPEAKER_08: It was bad.
+[869.3s - 873.4s] SPEAKER_08: But the good part about that was when I got home from the wedding,
+[873.6s - 875.3s] SPEAKER_08: And my brother called me and he said,
+[876.1s - 877.9s] SPEAKER_08: You know what? I didn't even dance with you.
+[878.6s - 880.5s] SPEAKER_08: And I said, who told you to say that?
+[881.1s - 882.7s] SPEAKER_08: So he did know it too.
+[883.6s - 886.1s] SPEAKER_08: But it just brought up feelings that you feel.
+[888.2s - 889.0s] SPEAKER_08: Chromie again.
+[890.8s - 896.2s] SPEAKER_08: And, you know, because I wonder what's going to happen when my parents are gone. Is my brother going to care to even see me anymore?
+[904.9s - 907.9s] SPEAKER_00: This brings us to Marty, the other baby in this baby switch.
+[909.1s - 921.5s] SPEAKER_00: Before she found out the truth about who her mother really was, Marty's life wasn't all that different from Sue's. Marty was also married, also had three kids. She'd also moved out of Wisconsin, in her case, to Southern California.
+[922.6s - 924.1s] SPEAKER_00: She's also religious, like Sue.
+[924.7s - 926.1s] SPEAKER_00: but that's pretty much where it ends.
+[927.1s - 938.8s] SPEAKER_00: Marty worked all of her adult life and still does as a nurse. She grew up as the sixth child in a family of seven kids. Besides her, there was Mary Lydia, Faith, Ruth, Sunny, Luke, and Esther.
+[939.8s - 942.6s] SPEAKER_00: Her mother ran a disciplined household. Everyone had to work.
+[943.1s - 946.9s] SPEAKER_00: She remembers washing and drying all the dishes by the time she was five or six.
+[947.6s - 950.9s] SPEAKER_00: There wasn't much money around. The five girls shared one bedroom.
+[951.8s - 959.7s] SPEAKER_00: The church was the center of their lives, and the family never went on vacation or even to the movies. Instead, they were all taught to paint and encouraged to play music.
+[961.2s - 963.2s] SPEAKER_00: Like Sue, though, Marty stuck out in her family.
+[963.9s - 966.0s] SPEAKER_00: For one thing, she was the only one who joked around.
+[966.5s - 969.2s] SPEAKER_00: She says even now the Millers can't tell when she's being ironic.
+[970.3s - 973.1s] SPEAKER_00: And then there was the blondness and the perkiness and the socializing.
+[974.1s - 977.6s] SPEAKER_00: Marty says she felt like everything she was interested in was lost on her parents.
+[978.2s - 982.0s] SPEAKER_03: I don't think that they ever came to watch me cheer.
+[982.5s - 983.2s] SPEAKER_03: in a game.
+[984.5s - 989.4s] SPEAKER_03: that wasn't something that they would have done because athletics was really not a value to them.
+[989.7s - 990.4s] SPEAKER_03: at all.
+[991.4s - 996.7s] SPEAKER_03: I was just not ever meeting their expectation of intellectualism.
+[998.3s - 1001.3s] SPEAKER_03: And my mother has told me since then.
+[1001.7s - 1002.4s] SPEAKER_03: you know,
+[1002.7s - 1003.1s] SPEAKER_03: you
+[1003.6s - 1006.4s] SPEAKER_03: I really didn't expect that much from you.
+[1007.5s - 1009.8s] SPEAKER_03: because I knew that you weren't our child.
+[1011.6s - 1012.9s] SPEAKER_03: That was a hard thing to hear.
+[1021.6s - 1026.0s] SPEAKER_00: Incredibly, when Marty was 21 years old, someone actually told her that she might not be a Miller.
+[1026.8s - 1030.1s] SPEAKER_00: One of her older sisters, Ruth, came to visit with her husband, Rudy.
+[1031.3s - 1034.0s] SPEAKER_00: Rudy had a couple of beers, and after dinner, he got to talking.
+[1034.5s - 1035.1s] SPEAKER_03: and he
+[1035.6s - 1039.0s] SPEAKER_03: started asking me what I knew about the McDonald's.
+[1039.8s - 1043.2s] SPEAKER_03: And I really didn't know anything about the McDonald's.
+[1043.7s - 1045.0s] SPEAKER_03: And then he told me,
+[1045.3s - 1047.1s] SPEAKER_03: that I looked like them.
+[1047.9s - 1050.5s] SPEAKER_03: And he said, what would you do if I told you?
+[1051.0s - 1052.7s] SPEAKER_03: that they were your parents.
+[1053.6s - 1054.0s] SPEAKER_03: And I.
+[1054.6s - 1058.9s] SPEAKER_03: I was kind of stunned. It was the first I had ever heard anything about it.
+[1059.8s - 1060.3s] SPEAKER_03: And
+[1061.0s - 1062.5s] SPEAKER_03: He did, in fact, say,
+[1062.9s - 1063.4s] SPEAKER_03: some
+[1063.5s - 1064.3s] SPEAKER_03: hurtful.
+[1064.7s - 1065.3s] SPEAKER_03: things.
+[1066.5s - 1072.9s] SPEAKER_03: Because he told me, you know, well, I don't care what anybody says. From as far as I'm concerned, you're not really Ruth's sister.
+[1074.6s - 1076.9s] SPEAKER_03: I thought it was just Rudy being Rudy.
+[1077.6s - 1078.1s] SPEAKER_03: you know.
+[1078.6s - 1080.9s] SPEAKER_03: He just has crazy ideas.
+[1081.6s - 1083.2s] SPEAKER_03: He dreams these things up.
+[1084.2s - 1085.5s] SPEAKER_04: I was just horrified.
+[1086.4s - 1088.2s] SPEAKER_04: And he didn't tell me ahead of time.
+[1088.6s - 1089.7s] SPEAKER_04: It just came out with it.
+[1090.6s - 1091.2s] SPEAKER_00: That's Ruth.
+[1091.7s - 1098.2s] SPEAKER_00: She and Faith and Mary Lydia, the older girls, had sort of always known about the possibility that Marty wasn't their biological sister.
+[1099.2s - 1104.8s] SPEAKER_00: A couple of them, including Ruth, had vague memories of their parents talking about it after they brought Marty home from the hospital.
+[1105.4s - 1110.3s] SPEAKER_00: about how this baby looked different from Mrs. Miller's other babies, and that maybe this baby had been switched.
+[1111.4s - 1116.3s] SPEAKER_00: Then, when Ruth was about 16, her older sister, Faith, came home from a trip on a Mississippi riverboat.
+[1116.8s - 1119.1s] SPEAKER_00: and told Ruth she had seen Sue MacDonald on the boat.
+[1119.8s - 1121.3s] SPEAKER_00: and that she looked an awful lot like them.
+[1122.3s - 1124.1s] SPEAKER_00: they decided that Ruth ought to have a look too.
+[1124.5s - 1126.8s] SPEAKER_00: So the two girls cooked up a reconnaissance mission.
+[1127.6s - 1130.9s] SPEAKER_00: On one Sunday, they got their boyfriends to drive them 17 miles away.
+[1131.3s - 1133.3s] SPEAKER_00: to the McDonald's Church in Prairie du Chien.
+[1134.2s - 1137.0s] SPEAKER_00: Ruth sat down in a pew near the front, next to Faith.
+[1137.4s - 1139.1s] SPEAKER_04: Right before the service began,
+[1139.8s - 1140.8s] SPEAKER_04: She says,
+[1141.2s - 1143.7s] SPEAKER_04: There's Sue walking down the center aisle.
+[1144.3s - 1145.0s] SPEAKER_04: And I...
+[1145.1s - 1148.2s] SPEAKER_04: I thought she even walks like Mary.
+[1149.0s - 1151.9s] SPEAKER_04: You know, I was just like, wow, you know.
+[1152.4s - 1155.6s] SPEAKER_04: wow, that could be her, that could be my sister.
+[1156.9s - 1157.4s] SPEAKER_04: And
+[1157.7s - 1159.0s] SPEAKER_04: Yeah, I think it might be.
+[1160.2s - 1161.6s] SPEAKER_00: And at any point during this time,
+[1162.2s - 1165.4s] SPEAKER_00: Does it cross your mind? Well, why don't we just ask mom and dad about this?
+[1165.6s - 1165.9s] SPEAKER_04: Nope.
+[1165.9s - 1165.9s] SPEAKER_00: Thank you.
+[1170.2s - 1178.4s] SPEAKER_00: That's not how their family worked. They just didn't talk about these kinds of things. And as Ruth and Faith saw it, it wasn't their place to mess in their parents' affairs.
+[1179.4s - 1183.9s] SPEAKER_00: Which is why, when her husband Rudy blurted it out a few years later, Ruth was so shocked.
+[1184.5s - 1185.2s] SPEAKER_04: And Marty?
+[1186.4s - 1188.2s] SPEAKER_04: refused to believe it at that point.
+[1188.7s - 1193.9s] SPEAKER_04: She denied it. She says, oh, no. No, that's not true. You know?
+[1194.3s - 1202.9s] SPEAKER_04: So then I thought, well, okay, then it's not so bad. If she still believes she's my sister, that's good.
+[1203.9s - 1209.0s] SPEAKER_00: The next week, though, when Marty was visiting their mom, Mrs. Miller, she asked her about what Rudy had said.
+[1209.7s - 1219.7s] SPEAKER_00: Mrs. Miller gave her a noncommittal answer, saying that once upon a time they thought that maybe, perhaps, it might have, but even if it did happen, there was no way to prove it. So that was that.
+[1228.7s - 1233.1s] SPEAKER_00: Over the years, the thought that she might be someone else's child festered in the back of Marty's mind.
+[1234.1s - 1237.8s] SPEAKER_00: And much later, when she was in her mid-30s, she decided to get to the bottom of it.
+[1238.8s - 1242.2s] SPEAKER_00: She was working for a group of pediatricians, which included a genetic counselor.
+[1243.0s - 1246.2s] SPEAKER_00: She told the counselor her story and said she wanted to get blood tests done.
+[1247.3s - 1250.0s] SPEAKER_00: The counselor asked her what the McDonald's knew about all this.
+[1250.3s - 1251.5s] SPEAKER_03: And I said, I don't think.
+[1252.0s - 1253.4s] SPEAKER_03: They know anything about it.
+[1254.2s - 1254.9s] SPEAKER_03: So.
+[1255.9s - 1257.4s] SPEAKER_03: She said, well...
+[1257.5s - 1259.3s] SPEAKER_03: If you were to find out...
+[1260.1s - 1260.3s] SPEAKER_03: that
+[1260.4s - 1264.0s] SPEAKER_03: that these parents that you have are not your parents
+[1264.9s - 1268.3s] SPEAKER_03: and the other family doesn't want to have anything to do with you.
+[1269.0s - 1270.3s] SPEAKER_03: How are you going to feel?
+[1271.4s - 1272.1s] SPEAKER_03: And I said,
+[1272.7s - 1273.1s] SPEAKER_03: well.
+[1273.9s - 1274.7s] SPEAKER_03: I don't know.
+[1275.6s - 1276.8s] SPEAKER_03: I don't have any idea.
+[1277.6s - 1282.4s] SPEAKER_03: And she said, you really need to consider how that's going to change your family for you.
+[1283.0s - 1285.7s] SPEAKER_03: and how it's going to change relationships for you.
+[1286.2s - 1289.7s] SPEAKER_03: So she said, unless there's a real...
+[1290.5s - 1291.8s] SPEAKER_03: a reason
+[1292.0s - 1293.4s] SPEAKER_03: that you need to know.
+[1293.7s - 1296.0s] SPEAKER_03: She said, I don't recommend that you dig into it.
+[1303.8s - 1306.2s] SPEAKER_00: That sort of spooked Marty, so she left it alone.
+[1307.0s - 1310.5s] SPEAKER_00: That's where it might have ended if it hadn't been for Mrs. Miller's letter a decade later.
+[1312.1s - 1317.7s] SPEAKER_00: It's hard enough to learn that your mother isn't your mother, but it's even harder when that news is delivered by someone like Mrs. Miller.
+[1318.1s - 1319.7s] SPEAKER_00: Tact is in her strong suit.
+[1320.2s - 1322.5s] SPEAKER_00: In fact, she seemed to have a tin ear for the whole thing.
+[1323.7s - 1327.0s] SPEAKER_00: For starters, Mrs. Miller didn't contact Marty and Sue at the same time.
+[1327.7s - 1329.5s] SPEAKER_00: She first sent the letter to Sue MacDonald.
+[1329.8s - 1331.1s] SPEAKER_00: the daughter she barely knew.
+[1332.0s - 1334.7s] SPEAKER_00: and then waited almost two weeks before mailing the letter to Marty.
+[1334.9s - 1336.1s] SPEAKER_00: the daughter she'd raised.
+[1337.2s - 1340.3s] SPEAKER_00: She said she wanted to call Marty first, but never managed to reach her.
+[1341.2s - 1345.8s] SPEAKER_00: As a result, Marty got word about one of the most basic facts of her life, secondhand.
+[1346.3s - 1348.4s] SPEAKER_00: all the while waiting to hear directly from her mother.
+[1349.0s - 1354.4s] SPEAKER_03: And in the meantime, I had gotten phone calls from people I didn't even know that were telling me.
+[1355.0s - 1356.4s] SPEAKER_03: you know, hey, I'm your brother.
+[1356.7s - 1359.3s] SPEAKER_03: Hey, I was switched at birth with you, you know.
+[1360.2s - 1363.0s] SPEAKER_00: When she finally heard from Mrs. Miller, the mother she'd grown up with,
+[1363.5s - 1364.7s] SPEAKER_00: Not only did she get the letter,
+[1365.1s - 1368.6s] SPEAKER_00: But Mrs. Miller had just been to the 50th anniversary party of the McDonald's.
+[1369.1s - 1370.8s] SPEAKER_00: Marty's biological parents.
+[1371.3s - 1375.4s] SPEAKER_03: And so she took one of the programs from it, and she mailed it to me.
+[1376.2s - 1378.9s] SPEAKER_03: And basically, and this is going to sound like kind of...
+[1380.0s - 1387.6s] SPEAKER_03: a small thing, but it was a big thing to me. She circled the names of people that were participating in the program.
+[1388.4s - 1391.9s] SPEAKER_03: like my one of my uncles on the birth side
+[1392.4s - 1392.9s] SPEAKER_03: Earl
+[1393.3s - 1396.7s] SPEAKER_03: Gonzales. She circled his name and she wrote, this is your uncle.
+[1397.6s - 1398.4s] SPEAKER_03: And she circled
+[1398.9s - 1400.7s] SPEAKER_03: my brother's name.
+[1401.3s - 1402.5s] SPEAKER_03: And so this is your brother.
+[1403.4s - 1407.0s] SPEAKER_03: Like Bob and Kay, she would circle their names and say, these are your parents.
+[1407.6s - 1413.7s] SPEAKER_03: And, you know, I'm reading this thing going, what do you mean these are my, this is my uncle, this is my brother, this is my.
+[1414.3s - 1416.4s] SPEAKER_03: Mom and Dad, this is not my...
+[1417.1s - 1419.2s] SPEAKER_03: my family. I don't even know who they are.
+[1420.7s - 1422.4s] SPEAKER_03: And I took that as a
+[1422.9s - 1427.2s] SPEAKER_03: You know, okay, I'm saying as of right now, you're not our kid.
+[1428.3s - 1429.4s] SPEAKER_03: You're their kid.
+[1429.8s - 1431.1s] SPEAKER_03: You're in their family.
+[1439.1s - 1448.3s] SPEAKER_00: Artie says her mom, Mrs. Miller, sees the world in black and white. She focused on the facts of the situation, maybe hoping she could fix things by simply setting the record straight.
+[1449.0s - 1457.0s] SPEAKER_00: She wasn't malicious. She wasn't trying to be hurtful. After all those years, she was just tired of secrets. And now she wanted everyone's role to be clear.
+[1458.0s - 1462.3s] SPEAKER_00: But it was hard, Marty says, to be on the receiving end of this sudden, adamant truth-telling.
+[1462.8s - 1464.8s] SPEAKER_03: There were a few years there where
+[1465.7s - 1468.2s] SPEAKER_03: Every chance my mother got, she made it.
+[1469.3s - 1470.5s] SPEAKER_03: perfectly clear
+[1470.8s - 1471.8s] SPEAKER_03: that you know
+[1472.6s - 1473.8s] SPEAKER_03: I was a McDonald.
+[1474.0s - 1475.4s] SPEAKER_03: for the longest time.
+[1475.8s - 1479.4s] SPEAKER_03: Whenever she would write to me, she would include McDonald in my name.
+[1479.9s - 1481.4s] SPEAKER_00: Oh my god, are you serious?
+[1481.4s - 1482.0s] SPEAKER_03: Yes.
+[1482.1s - 1492.4s] SPEAKER_03: Just absolutely bizarre things like that. That's just how she is. There is no gray area.
+[1492.9s - 1495.5s] SPEAKER_03: Actually, my mother wanted to...
+[1495.9s - 1505.1s] SPEAKER_03: go to court and have my name legally changed back to Sue McDonald and have Sue's name changed. That was her idea.
+[1506.8s - 1514.4s] SPEAKER_03: It's kind of, you know, she tells me that this is, you know, you're my daughter.
+[1514.9s - 1515.4s] SPEAKER_03: but
+[1515.7s - 1520.1s] SPEAKER_03: At the same time, she says, when she refers to K, she says, well...
+[1520.5s - 1521.4s] SPEAKER_03: Your mother
+[1521.9s - 1528.8s] SPEAKER_03: is doing such and such, or your mother said this. And when I think of my mother, I think of her.
+[1536.6s - 1539.9s] SPEAKER_00: During this time, it was Marty's dad, Reverend Miller, who reassured her.
+[1540.7s - 1542.2s] SPEAKER_00: They started talking on the phone a lot.
+[1543.0s - 1544.2s] SPEAKER_00: He explained things like,
+[1544.5s - 1548.5s] SPEAKER_00: Why all those years ago he refused to return to the hospital and switch back the babies.
+[1549.1s - 1550.8s] SPEAKER_00: And he let Marty know that he still loved her.
+[1551.3s - 1552.9s] SPEAKER_03: He did not...
+[1553.7s - 1554.2s] SPEAKER_03: one
+[1554.5s - 1557.2s] SPEAKER_03: her to push me out of the family.
+[1557.7s - 1558.3s] SPEAKER_03: He was...
+[1559.0s - 1561.0s] SPEAKER_03: He, in fact, would call me and tell me,
+[1561.8s - 1563.9s] SPEAKER_03: You know, I don't care what she says.
+[1564.5s - 1566.4s] SPEAKER_03: You're still our kid.
+[1566.5s - 1567.8s] SPEAKER_03: I'm glad we had you.
+[1569.0s - 1574.3s] SPEAKER_00: Did you feel that then after this happened a little bit closer to your dad than your mom?
+[1574.5s - 1575.2s] SPEAKER_03: Yes.
+[1576.4s - 1581.0s] SPEAKER_03: Yeah, definitely. At that point, my dad...
+[1581.1s - 1583.5s] SPEAKER_03: had this horrendous guilt.
+[1583.7s - 1586.0s] SPEAKER_03: because he felt like it was all his fault.
+[1587.1s - 1591.7s] SPEAKER_03: that he should have believed my mother for, you know, all those years.
+[1592.3s - 1596.2s] SPEAKER_03: He just, I think he honestly never thought it was a possibility.
+[1597.7s - 1599.9s] SPEAKER_03: He thought she really
+[1600.2s - 1602.7s] SPEAKER_03: dreamed this up in her head and
+[1603.4s - 1605.0s] SPEAKER_03: Just got obsessed with it.
+[1606.4s - 1609.4s] SPEAKER_03: And the other thing was that he really thought...
+[1610.1s - 1611.9s] SPEAKER_03: What difference does it make?
+[1612.3s - 1616.3s] SPEAKER_03: A child is a child. She's with us. She's ours now.
+[1624.9s - 1627.4s] SPEAKER_00: The other problem for Marty was how to approach the McDonald's.
+[1627.8s - 1629.2s] SPEAKER_00: for biological parents.
+[1630.1s - 1634.5s] SPEAKER_00: They were nice enough when she spoke to them on the phone, but they weren't exactly welcoming her into the family.
+[1634.9s - 1637.4s] SPEAKER_16: I remember talking to Mother about...
+[1637.8s - 1639.2s] SPEAKER_16: you know, this is your...
+[1639.9s - 1640.6s] SPEAKER_16: Blood.
+[1640.9s - 1641.5s] SPEAKER_16: daughter.
+[1642.0s - 1646.1s] SPEAKER_00: Here's Bob McDonald, who, remember, was having these great phone calls with his newfound sister.
+[1646.5s - 1649.2s] SPEAKER_16: This is the daughter that actually...
+[1649.8s - 1650.5s] SPEAKER_16: was
+[1650.9s - 1658.7s] SPEAKER_16: in you. And, you know, I mean, I understand you didn't raise her, but she is your blood, you know, biological daughter.
+[1659.1s - 1660.9s] SPEAKER_16: um and uh
+[1662.3s - 1669.8s] SPEAKER_16: I don't know that she was as excited about it as I was, and I couldn't figure that out at the time.
+[1671.2s - 1672.1s] SPEAKER_16: She was guarded.
+[1673.3s - 1677.7s] SPEAKER_00: They were nice enough when she spoke to them on the phone, but they weren't exactly welcoming her into the family.
+[1678.7s - 1679.8s] SPEAKER_00: From Marty's perspective,
+[1679.9s - 1683.4s] SPEAKER_00: the genetic counselor's prediction from years before seemed to be coming true.
+[1684.0s - 1686.0s] SPEAKER_00: It felt like she was losing both her mothers.
+[1687.1s - 1690.5s] SPEAKER_00: Marty wrote a letter to Kay and Bob McDonald, her biological parents.
+[1692.4s - 1695.8s] SPEAKER_00: I want you to know that I will accept whatever contact you choose to have with me.
+[1696.2s - 1697.4s] SPEAKER_00: even if it's none at all.
+[1698.4s - 1701.5s] SPEAKER_00: I promise you, I'll never try to make you think of me as your daughter.
+[1702.3s - 1703.7s] SPEAKER_00: I know that Sue's your daughter.
+[1704.2s - 1706.4s] SPEAKER_00: and no one could ever expect you to feel otherwise.
+[1715.5s - 1724.7s] SPEAKER_00: Marty eventually decided that the only way she was going to resolve this was by getting on a plane and flying out to Wisconsin to meet the McDonald's face-to-face and give them a real chance to get to know her.
+[1726.1s - 1729.8s] SPEAKER_00: The get-together at Bob and Kay McDonald's house didn't go exactly as she wanted.
+[1730.7s - 1734.6s] SPEAKER_00: From the McDonald's perspective, Marty looked and acted remarkably like a McDonald.
+[1735.0s - 1737.0s] SPEAKER_00: She got along famously with her son Bob.
+[1737.6s - 1742.0s] SPEAKER_00: She even had the exact same oil painting hanging on her wall in California as they had in their living room.
+[1742.4s - 1744.2s] SPEAKER_00: a landscape with trees and water.
+[1745.3s - 1746.8s] SPEAKER_00: but Sue was the girl they had brought up.
+[1747.6s - 1748.6s] SPEAKER_00: They felt loyal to her.
+[1748.9s - 1749.5s] SPEAKER_00: Protective.
+[1749.8s - 1751.3s] SPEAKER_03: I kind of felt like...
+[1751.7s - 1755.9s] SPEAKER_03: like Bob and Kay were kind of keeping me at an arm's distance because...
+[1756.6s - 1759.4s] SPEAKER_03: They weren't really sure how they felt or wanted to feel.
+[1760.9s - 1763.7s] SPEAKER_03: And I don't think Sue had that sense.
+[1764.2s - 1775.7s] SPEAKER_00: In fact, that's true. Maybe because some of the Miller girls had suspected that she was their sister for decades, and because Mrs. Miller always knew the truth. Sue was being embraced completely by the Miller clan.
+[1776.4s - 1778.9s] SPEAKER_00: And so while Sue had feared everyone would choose Marty,
+[1779.2s - 1780.9s] SPEAKER_00: the outgoing cheerleader over her.
+[1781.5s - 1782.7s] SPEAKER_00: It didn't work out that way.
+[1783.4s - 1784.0s] SPEAKER_00: Here's Marty.
+[1784.3s - 1789.3s] SPEAKER_03: In fact, it was the exact opposite. She had both families wanting to make sure that...
+[1789.6s - 1791.8s] SPEAKER_03: You know, she was included in their family.
+[1792.1s - 1796.8s] SPEAKER_03: The Millers wanted to incorporate her family into our family as quickly as they could.
+[1799.5s - 1809.0s] SPEAKER_03: I did feel in the beginning like she was taking my place in my family, and that was odd, very odd.
+[1810.8s - 1811.4s] SPEAKER_03: And
+[1812.5s - 1828.3s] SPEAKER_03: Sometimes I don't know exactly what her relationship is with my sisters. You know, I honestly don't know how much they communicate, how much they're in touch.
+[1829.0s - 1835.3s] SPEAKER_03: Part of me really doesn't want to know because I think I would feel left out of something.
+[1844.3s - 1844.9s] SPEAKER_11: Coming up.
+[1845.3s - 1859.1s] SPEAKER_11: What it's like to be a mom and to learn at the age of 69 that your only daughter isn't actually your daughter at all. And if that weren't bad enough, that lots of people in your town, people around you, knew years before you did.
+[1859.2s - 1863.2s] SPEAKER_11: That's in a minute from Chicago Public Radio when our program continues.
+[1866.4s - 1883.2s] SPEAKER_11: This is American Life, Myra Glass. If you're just tuning in, Jake Halperin is telling the story this hour of two girls switched at birth. One mother, Mary Miller, knew and kept it a secret, did nothing about it for 43 years. The other mother, Kay McDonald, had no idea.
+[1884.3s - 1890.5s] SPEAKER_11: The two fathers in this story were not interviewed. Mr. McDonald's health didn't allow it. Mr. Miller died in 2000.
+[1891.0s - 1893.0s] SPEAKER_11: And so, in this half of the story...
+[1893.1s - 1894.3s] SPEAKER_11: We hear from the mothers.
+[1895.0s - 1896.2s] SPEAKER_11: Again, here's Jake Hopper.
+[1896.9s - 1902.8s] SPEAKER_00: At the hospital in 1951, Kay McDonald was told that she'd given birth to a 9-pound, 4-ounce baby.
+[1903.4s - 1904.4s] SPEAKER_00: She didn't question that.
+[1905.0s - 1908.4s] SPEAKER_00: Every day she was at the hospital, the nurses brought her the same baby girl.
+[1908.7s - 1909.9s] SPEAKER_00: Nothing seemed amiss to her.
+[1910.6s - 1911.8s] SPEAKER_00: And as that baby, Sue,
+[1912.1s - 1912.5s] SPEAKER_00: grew up
+[1913.0s - 1915.5s] SPEAKER_00: The one thing that puzzled Kay was that Mrs. Miller
+[1915.8s - 1917.5s] SPEAKER_00: whom she knew only vaguely from church.
+[1918.0s - 1919.4s] SPEAKER_00: seems so interested in Sue.
+[1919.9s - 1922.4s] SPEAKER_05: She always referred to the girls as sisters.
+[1922.9s - 1937.6s] SPEAKER_05: After they were born, she had written us a Christmas letter and said she'd always like to keep in touch with Susan because the girls were so much like sisters. And, of course, I thought that was foolish.
+[1939.0s - 1941.5s] SPEAKER_05: But I went along with it because...
+[1942.6s - 1944.0s] SPEAKER_05: I don't like to make...
+[1945.0s - 1946.8s] SPEAKER_05: Waves, I guess you might say.
+[1947.8s - 1952.8s] SPEAKER_05: And so that's why I started sending them a copy of our Christmas letter.
+[1953.5s - 1955.4s] SPEAKER_00: That's how Mrs. Miller kept track of Sue.
+[1956.2s - 1971.8s] SPEAKER_00: Over the years, Mrs. Miller would do or say things concerning the girls, things that just seemed strange to Kay. When Kay's church was celebrating its 150th anniversary, for instance, Kay was chairperson for the event. Reverend Miller had once been pastor there, so he and Mrs. Miller were invited.
+[1972.7s - 1974.2s] SPEAKER_05: And the Millers came.
+[1974.8s - 1977.0s] SPEAKER_05: And I was in the hallway.
+[1977.4s - 1980.6s] SPEAKER_05: And Mrs. Miller said to me, did you ever think that...
+[1981.0s - 1983.0s] SPEAKER_05: Our girls were switched at birth.
+[1983.5s - 1986.1s] SPEAKER_05: And I said, heavens no.
+[1986.2s - 1990.5s] SPEAKER_05: I thought that was such a ridiculous thing to say.
+[1991.6s - 1997.0s] SPEAKER_05: And, of course, I was very busy because I was chairperson, and I had so many other things to do.
+[1997.2s - 2002.3s] SPEAKER_05: So I passed it off, but that's all she said. There was nothing any further.
+[2003.5s - 2006.3s] SPEAKER_05: It didn't bother me because I just thought.
+[2007.5s - 2009.2s] SPEAKER_05: I couldn't see any merit to it.
+[2010.4s - 2012.2s] SPEAKER_05: I didn't have a doubt in my mind.
+[2013.0s - 2015.0s] SPEAKER_05: And I'm not one to...
+[2015.1s - 2016.2s] SPEAKER_05: Borrowed Treble
+[2023.7s - 2030.2s] SPEAKER_00: What Kay McDonald didn't know was that there was a whole slew of people in her church community who had heard about the rumored baby switch from the beginning.
+[2031.2s - 2033.9s] SPEAKER_00: Mrs. Miller and Kay McDonald were actually in different churches.
+[2034.3s - 2036.9s] SPEAKER_00: Kay was a Methodist and the Millers were evangelicals.
+[2037.5s - 2041.3s] SPEAKER_00: Mrs. Miller told people in the evangelical church about her suspicions.
+[2041.3s - 2044.2s] SPEAKER_00: Friends of hers and people she hoped would keep an eye out on Sue.
+[2045.1s - 2046.7s] SPEAKER_00: But later, the two churches merged.
+[2047.3s - 2052.6s] SPEAKER_00: So a bunch of people from the evangelical church now knew who K. MacDonald was and who Sue was.
+[2052.8s - 2055.8s] SPEAKER_00: and realized that this was the girl Mrs. Miller believed to be her own.
+[2056.4s - 2059.7s] SPEAKER_00: And this whole crop of people knew but never said anything to Kay McDonald.
+[2060.8s - 2065.3s] SPEAKER_00: One of them was Darlene Wolfgram. She heard it first from her own mom, who heard it at church.
+[2065.8s - 2070.7s] SPEAKER_13: She said, everybody kind of at church, after having seen Marty.
+[2071.0s - 2072.9s] SPEAKER_13: beside the rest of the family.
+[2073.6s - 2074.0s] SPEAKER_13: Uh...
+[2074.9s - 2075.3s] SPEAKER_13: just
+[2075.8s - 2078.2s] SPEAKER_13: couldn't believe that that was their child.
+[2078.4s - 2085.8s] SPEAKER_13: It was pretty concealed right within our own church, probably the ladies' aid maybe, you know, the little group that got together.
+[2086.3s - 2089.5s] SPEAKER_13: In fact, my mother said, well, just don't tell anybody, you know.
+[2090.0s - 2093.0s] SPEAKER_13: So we never said anything about it.
+[2093.7s - 2100.8s] SPEAKER_00: Darlene Wolfgram did tell her daughter, though. And the daughter, bear with me, ended up marrying Sue's brother, Bob.
+[2101.6s - 2107.1s] SPEAKER_00: But even she never divulges the secret to Bob or any of the McDonald's. Here she is. Her name's also Sue.
+[2107.5s - 2124.0s] SPEAKER_17: So, no, I didn't because it was always just a rumor. And I thought, well, he'll think I'm nuts, you know. And he was very angry at first with me. And he said, why wouldn't you have told me that? And I said, would you have believed me?
+[2124.6s - 2134.7s] SPEAKER_17: I mean, I'd say, gee, guess what, Bob? I don't think your sister's yours. Well, you know, there was no DNA testing back then or anything else. So, I mean, there would have been no proof.
+[2135.8s - 2142.4s] SPEAKER_00: That's what most people in town seemed to feel. It wasn't their place to bring up such a thing, especially with no way to know if it was true for sure.
+[2143.3s - 2150.4s] SPEAKER_00: What that meant was that after Kay McDonald finally found out the truth in 1994, people started coming up to her, in church mostly.
+[2150.7s - 2153.2s] SPEAKER_00: casually mentioning that they'd known about it all along.
+[2153.9s - 2155.0s] SPEAKER_00: I was surprised.
+[2155.0s - 2155.2s] SPEAKER_05: you
+[2155.6s - 2155.9s] SPEAKER_05: that
+[2155.9s - 2156.0s] SPEAKER_00: Thank you.
+[2156.0s - 2158.2s] SPEAKER_05: nobody really ever
+[2158.4s - 2159.0s] SPEAKER_05: Oh.
+[2160.5s - 2165.1s] SPEAKER_05: told us. The booms, the tenors, the langs, the hazens.
+[2166.0s - 2169.6s] SPEAKER_05: I just couldn't believe it. I just...
+[2170.9s - 2172.3s] SPEAKER_05: I just thought it was odd.
+[2173.0s - 2177.8s] SPEAKER_05: that so many people would know in a town of our size, which was like 5,500.
+[2178.4s - 2178.9s] SPEAKER_05: people
+[2179.5s - 2180.7s] SPEAKER_05: when that many people
+[2181.0s - 2184.5s] SPEAKER_05: were aware of it that the news didn't get to us.
+[2190.3s - 2199.2s] SPEAKER_00: Slowly, anger began to set in. Kay was angry that Mrs. Miller hadn't corrected things back in 1951, that Mrs. Miller had hijacked her life in this way.
+[2199.8s - 2210.0s] SPEAKER_00: And she was angry that Mrs. Miller put Sue in the difficult position of having to break news like this to her parents. And angry that now the Millers were asking so much of Sue's time and attention.
+[2210.5s - 2213.8s] SPEAKER_00: It got so bad, Kay had to go on medication for high blood pressure.
+[2214.5s - 2218.8s] SPEAKER_05: Well, of course, they were really clamoring to get to know her.
+[2221.0s - 2222.4s] SPEAKER_05: I felt excluded.
+[2223.4s - 2225.0s] SPEAKER_05: I felt they were trying to...
+[2225.6s - 2227.4s] SPEAKER_05: Take her away from us.
+[2228.0s - 2230.7s] SPEAKER_05: And Susan always had said to me,
+[2231.1s - 2237.1s] SPEAKER_05: Mom, why didn't you have any more children after I was born? She wanted to be a part of a big family.
+[2237.6s - 2240.0s] SPEAKER_05: So then she found out she had all of these.
+[2240.6s - 2244.1s] SPEAKER_05: brothers and sisters. And...
+[2244.8s - 2247.3s] SPEAKER_05: The phone calls were fewer and I...
+[2247.8s - 2250.5s] SPEAKER_05: And of course, Marty didn't really call a whole lot.
+[2250.9s - 2252.5s] SPEAKER_05: She's a very busy gal.
+[2253.2s - 2256.5s] SPEAKER_05: and I was not having that much communication with her.
+[2257.9s - 2258.6s] SPEAKER_05: and um
+[2260.1s - 2261.9s] SPEAKER_05: I thought I was losing both of them.
+[2263.0s - 2266.2s] SPEAKER_00: Kay McDonald began getting notes and phone calls from Reverend Miller.
+[2266.7s - 2272.6s] SPEAKER_00: He told her that he thought it was God's will that this had happened. Even so, he asked her for forgiveness again and again.
+[2274.0s - 2278.5s] SPEAKER_00: And he's just outright, he's just saying, can you forgive me? Just like that on the telephone.
+[2279.4s - 2282.1s] SPEAKER_05: Yes, and quoting scriptures.
+[2282.9s - 2287.2s] SPEAKER_05: all the time for me to read to console me because I had said
+[2287.9s - 2288.5s] SPEAKER_05: that I had
+[2288.8s - 2290.8s] SPEAKER_05: I had shed a lot of tears and...
+[2291.7s - 2296.0s] SPEAKER_05: And I had probably all of the emotions that you have with...
+[2296.4s - 2297.5s] SPEAKER_05: Death in a family.
+[2297.8s - 2298.3s] SPEAKER_05: You know?
+[2299.0s - 2304.5s] SPEAKER_05: I think I went into a kind of a depression about similar to what I did when my mother died.
+[2307.1s - 2309.0s] SPEAKER_05: And so, of course, he was trying to...
+[2310.0s - 2313.9s] SPEAKER_05: get me to say that I had forgiven them.
+[2315.0s - 2318.4s] SPEAKER_00: How did you feel when he said this was God's will? I mean, what was your reaction?
+[2319.0s - 2320.7s] SPEAKER_05: I couldn't believe that because I don't.
+[2321.5s - 2325.4s] SPEAKER_05: I don't have that feeling about, I don't think God...
+[2326.5s - 2327.7s] SPEAKER_05: punishes us.
+[2327.9s - 2328.7s] SPEAKER_05: and then we
+[2330.1s - 2333.3s] SPEAKER_05: I think what we do is pretty much our own doing.
+[2334.3s - 2337.9s] SPEAKER_05: But he had everybody convinced, I think, that it was God's will.
+[2339.0s - 2353.2s] SPEAKER_05: But I had talked to several of our former pastors who knew about the situation, and they assured me that this was not God's will. They said that was a cop-out.
+[2355.2s - 2360.6s] SPEAKER_05: And so I don't think that was too well received when I mentioned that.
+[2361.9s - 2372.5s] SPEAKER_05: I told Mrs. Miller I felt that it was God's will when she realized that she might not have the right child. I think it was His will that she do something about it.
+[2375.6s - 2375.8s] SPEAKER_05: you
+[2381.1s - 2384.5s] SPEAKER_00: She wrote that in a letter to Mrs. Miller eight years after she learned the truth.
+[2385.1s - 2387.2s] SPEAKER_00: That's how long it took her to sort out her feelings.
+[2388.6s - 2391.4s] SPEAKER_00: K. MacDonald and the Millers eventually reached a kind of detente.
+[2392.0s - 2394.4s] SPEAKER_00: Kay is no longer angry the way she was.
+[2394.9s - 2398.7s] SPEAKER_00: But she says she'll never understand why Mrs. Miller stayed silent for all those years.
+[2399.4s - 2401.5s] SPEAKER_05: If I had a stronger feeling,
+[2402.2s - 2404.5s] SPEAKER_05: as she did that I had the wrong baby.
+[2405.2s - 2406.5s] SPEAKER_05: I would have pursued it.
+[2406.9s - 2410.1s] SPEAKER_05: I don't care whether my husband objected or not.
+[2410.7s - 2411.4s] SPEAKER_05: I
+[2412.2s - 2414.7s] SPEAKER_05: I feel like I should have made it.
+[2416.0s - 2418.2s] SPEAKER_05: a wrong into a right.
+[2419.3s - 2423.6s] SPEAKER_05: I only had one daughter, and she had five daughters.
+[2425.6s - 2429.5s] SPEAKER_05: In fact, we weren't even sure we'd have another child.
+[2430.0s - 2442.4s] SPEAKER_05: Of course, we were elated when I did get pregnant, and then to think that I didn't get to raise the one that I had wanted so much.
+[2444.0s - 2444.5s] SPEAKER_05: So
+[2446.8s - 2449.9s] SPEAKER_05: I never will probably understand why.
+[2450.8s - 2451.3s] SPEAKER_05: I mean,
+[2453.1s - 2454.3s] SPEAKER_05: I've forgiven them.
+[2454.9s - 2460.2s] SPEAKER_05: But that doesn't mean that I've forgotten. I can still wonder why.
+[2461.8s - 2465.0s] SPEAKER_05: And probably never will know why it didn't come up any sooner.
+[2472.9s - 2474.5s] SPEAKER_00: Mary Miller is 96 now.
+[2475.1s - 2476.9s] SPEAKER_00: She lives by herself in the country.
+[2477.0s - 2487.7s] SPEAKER_00: Her house is filled with the remnants of her and Norbert's life together in the church. They were married for 60 years. There's a large statue of an angel in her sitting room, which she's planning to put on her own grave.
+[2489.0s - 2492.1s] SPEAKER_00: When I first talked to Mrs. Miller about what had happened when Marty was born,
+[2492.3s - 2494.9s] SPEAKER_00: She told me pretty much the same story she told in her letter.
+[2495.7s - 2499.2s] SPEAKER_00: how she knew as soon as she got home and weighed the baby that the nurses had made a mistake.
+[2499.7s - 2503.4s] SPEAKER_09: Yes, I told Norbert I think we have the wrong baby.
+[2501.0s - 2501.1s] SPEAKER_00: Thank you.
+[2504.0s - 2510.9s] SPEAKER_09: And he said, well, I wouldn't disgrace the doctor by telling him he gave us the wrong baby.
+[2511.1s - 2515.0s] SPEAKER_09: And he says, this is a nice little baby. We'll keep her.
+[2517.0s - 2526.1s] SPEAKER_00: When your husband said to you, this baby's cute, let's keep it, did you agree with him immediately or was there a little bit of arguing back and forth over what to do?
+[2527.2s - 2529.0s] SPEAKER_09: We did not get that day.
+[2530.4s - 2544.4s] SPEAKER_09: But I kept looking for her, you know. And I was always asking anyone who might have seen her. In fact, when I would go down and have any touch with her.
+[2544.9s - 2546.3s] SPEAKER_09: the McDonald's we
+[2546.8s - 2548.5s] SPEAKER_09: we got introduced to them.
+[2549.8s - 2553.7s] SPEAKER_09: I tried to talk to her about it, and she...
+[2554.4s - 2560.6s] SPEAKER_09: She told somebody that I was crazy. I was a crazy woman. I thought I had a girl.
+[2562.5s - 2566.0s] SPEAKER_00: It was a little surreal to hear her talk about it in this way, laughing like that.
+[2566.3s - 2568.7s] SPEAKER_00: especially after hearing Kay McDonald's side of things.
+[2569.7s - 2572.2s] SPEAKER_00: But then Mrs. Miller told me more of her side of the story.
+[2573.1s - 2578.0s] SPEAKER_00: For one thing, she explained just how sick she was after they'd gone home with Marty in 1951.
+[2578.1s - 2580.4s] SPEAKER_00: She was losing blood and having spasms.
+[2580.6s - 2581.9s] SPEAKER_00: She thought she was gonna die.
+[2582.8s - 2587.5s] SPEAKER_00: She told me that she even started calling around trying to find someone who'd be a mother to her six children.
+[2588.0s - 2590.9s] SPEAKER_00: The sickness, she said, lasted for six or seven months.
+[2591.3s - 2595.0s] SPEAKER_00: By the time she was well, fixing the baby switch problem was that much harder.
+[2595.9s - 2598.3s] SPEAKER_00: even if she could somehow convince everyone it was true.
+[2599.1s - 2602.7s] SPEAKER_00: What would happen if you suddenly took a six-month-old away from the only mother she knew?
+[2603.8s - 2607.3s] SPEAKER_00: and the family's relationship with Dr. Deslock was no small thing either.
+[2607.4s - 2619.5s] SPEAKER_00: Reverend Miller had made many visits to Dr. Deslock's wife when she was sick, and now Dr. Deslock refused to charge the Millers for anything. The Millers didn't have much money, and they might not have been able to afford the health care otherwise.
+[2619.8s - 2623.4s] SPEAKER_09: Of course we felt indebted to him for doing that.
+[2624.0s - 2628.0s] SPEAKER_09: This doctor had been so kind to us and good to us.
+[2628.7s - 2632.0s] SPEAKER_09: And why ruin all of that, you know?
+[2633.0s - 2635.0s] SPEAKER_09: That's a big consideration.
+[2635.9s - 2638.1s] SPEAKER_00: Because Mrs. Miller didn't want to cross her husband.
+[2638.5s - 2640.1s] SPEAKER_00: All she could do was hope that maybe...
+[2640.2s - 2643.6s] SPEAKER_00: if she dropped enough hints calling the girls sisters and such.
+[2644.3s - 2646.7s] SPEAKER_00: Kay would eventually realize on her own what had happened.
+[2647.8s - 2650.1s] SPEAKER_00: It was an odd strategy, if you can even call it that.
+[2651.1s - 2655.0s] SPEAKER_00: When Sue got married, for instance, the Millers gave her a trivet Norbert had made.
+[2655.7s - 2658.3s] SPEAKER_00: The card was signed from your other possible parents.
+[2659.3s - 2663.4s] SPEAKER_00: Sue dismissed it as part of the whole sister thing, which she also thought was kind of weird.
+[2664.9s - 2668.7s] SPEAKER_00: Mrs. Miller's most ambitious scheme happened after the girls graduated from high school.
+[2669.1s - 2670.5s] SPEAKER_00: when they were about to be 18.
+[2671.4s - 2673.8s] SPEAKER_00: Mrs. Miller arranged for the McDonald's to come to dinner.
+[2674.5s - 2678.3s] SPEAKER_00: She figured if she could simply get Kay to look at Marty, Kay would figure things out.
+[2679.2s - 2684.6s] SPEAKER_00: The evening just ended up being kind of baffling for everyone involved, since only Mrs. Miller knew what was going on.
+[2685.3s - 2693.0s] SPEAKER_09: But they didn't notice any. I don't know why they didn't notice that Martha looked like them and was like them.
+[2693.9s - 2696.0s] SPEAKER_09: I don't know why they didn't notice.
+[2697.0s - 2699.5s] SPEAKER_00: The fact is, Mrs. Miller longed for Sue.
+[2699.7s - 2707.4s] SPEAKER_00: for her biological daughter, ever since she realized the mistake back in 1951. But it seemed futile trying to convince her husband Norbert.
+[2707.8s - 2718.5s] SPEAKER_09: I said, I think it's not right to do that, you know, to keep somebody else's baby. I didn't think it was right to do that.
+[2721.0s - 2727.8s] SPEAKER_09: And every time I'd talk to him, he'd say, it's all right. It'll be all right.
+[2728.6s - 2729.2s] SPEAKER_09: End.
+[2732.0s - 2736.7s] SPEAKER_09: I can't tell you how hard it was, but it was harder than me all along.
+[2739.1s - 2741.3s] SPEAKER_01: Were you afraid of Norbert at all?
+[2742.1s - 2748.0s] SPEAKER_09: Well, no, I wasn't afraid of him. I knew there were things I couldn't do.
+[2749.2s - 2751.8s] SPEAKER_09: and keep his friendship, you know.
+[2752.1s - 2753.9s] SPEAKER_09: if I turned against him.
+[2754.3s - 2755.8s] SPEAKER_09: like on that.
+[2760.3s - 2773.3s] SPEAKER_09: I guess you can understand. I didn't want to have a disagreement like that with him because that would have ruined our marriage. That would have ruined it. And I didn't want it ruined.
+[2775.9s - 2778.8s] SPEAKER_09: I have six little children to take care of.
+[2781.2s - 2787.6s] SPEAKER_00: Was there ever a time when you thought back and thought, I should have stood my ground more with him on that?
+[2789.9s - 2795.5s] SPEAKER_09: No, I guess I haven't because I knew it wouldn't have worked.
+[2797.7s - 2799.5s] SPEAKER_09: I couldn't do anything about it.
+[2802.5s - 2806.3s] SPEAKER_09: Norbert and I had a good time while we were together, but...
+[2808.2s - 2811.9s] SPEAKER_09: Norbert should have gone back and said, this isn't our baby.
+[2814.2s - 2814.2s] SPEAKER_09: Thank you.
+[2814.3s - 2824.9s] SPEAKER_09: This was a bad decision, but he didn't realize what effect that would have on everybody to make a decision like that.
+[2835.4s - 2839.0s] SPEAKER_00: Neither Sue nor Marty blames Mrs. Miller for going along with her husband.
+[2839.8s - 2842.7s] SPEAKER_00: They say they're not angry with her. They knew Reverend Miller.
+[2842.8s - 2845.1s] SPEAKER_00: They understand what their relationship was like.
+[2845.4s - 2847.4s] SPEAKER_00: They understand why she didn't speak out sooner.
+[2849.0s - 2850.9s] SPEAKER_00: 42 years after the switch,
+[2851.0s - 2855.1s] SPEAKER_00: Reverend Miller finally laid eyes on Sue at the McDonald's wedding anniversary party.
+[2856.3s - 2861.4s] SPEAKER_00: And the moment he saw her, he knew that she was his biological daughter. She looked exactly like him.
+[2862.4s - 2864.4s] SPEAKER_00: At last, Mrs. Miller felt free to act.
+[2865.8s - 2867.7s] SPEAKER_00: A month and a half later, she wrote the letter.
+[2868.6s - 2868.9s] SPEAKER_09: Yeah.
+[2870.6s - 2872.5s] SPEAKER_09: I wanted him to agree with me.
+[2875.1s - 2877.7s] SPEAKER_09: And he did. He finally did.
+[2880.7s - 2882.9s] SPEAKER_09: But boy, was it really for me.
+[2884.2s - 2890.4s] SPEAKER_09: because that was terrible. They had to hang over you all the time.
+[2893.1s - 2895.8s] SPEAKER_09: It's sad that it happened.
+[2898.6s - 2902.0s] SPEAKER_09: It took Kay an awful long time, and I'm sorry.
+[2899.4s - 2899.4s] SPEAKER_00: Thank you.
+[2899.4s - 2899.8s] SPEAKER_00: you know.
+[2905.0s - 2911.3s] SPEAKER_00: One thing Mrs. Miller doesn't regret is raising Marty. She remembers Marty always lightening the mood in their house.
+[2911.9s - 2912.0s] SPEAKER_00: Thank you.
+[2912.0s - 2913.5s] SPEAKER_09: As a kid, she was...
+[2913.5s - 2913.6s] SPEAKER_00: Thank you.
+[2914.3s - 2915.5s] SPEAKER_09: She was real, yeah.
+[2916.0s - 2917.0s] SPEAKER_09: Live wire.
+[2918.0s - 2919.3s] SPEAKER_09: She always had jokes.
+[2919.6s - 2921.2s] SPEAKER_09: She had jokes every day.
+[2921.7s - 2927.6s] SPEAKER_09: And just keep us laughing. You know, it was good for us to laugh.
+[2928.5s - 2931.0s] SPEAKER_09: It was really good for us to have her around.
+[2932.2s - 2937.6s] SPEAKER_09: I mean, my kids are awful serious about their life, you know.
+[2938.8s - 2941.3s] SPEAKER_09: They're more like I am.
+[2942.6s - 2953.0s] SPEAKER_00: Before, when I'd asked you if you thought it was God's will, you said yes. And is the reason because Marty brought something important to your family?
+[2953.6s - 2954.4s] SPEAKER_09: You cheated.
+[2956.7s - 2958.2s] SPEAKER_09: She brought happiness.
+[2958.2s - 2958.2s] SPEAKER_08: Thank you.
+[2961.0s - 2968.4s] SPEAKER_08: Dear Sue, I'm writing you this short note to officially give you my welcome to this Miller family and relationship.
+[2969.0s - 2973.9s] SPEAKER_00: This is Sue, reading a letter she got some time ago from her newfound Miller sister, Faith.
+[2974.4s - 2981.4s] SPEAKER_08: Though there are many, many good things about our family and parents, and being raised by that family, there were also some definite deficits.
+[2982.0s - 2990.0s] SPEAKER_08: If you're ever curious as to what they were, I would be very willing to fill you in. So you fully appreciate the parents who raised you.
+[2990.8s - 2991.5s] SPEAKER_08: Between.
+[2992.1s - 2997.9s] SPEAKER_08: ourselves, Ruth and me, we, or at least I, always figured you lucked out.
+[2998.8s - 3001.8s] SPEAKER_08: Probably Martha, with her happy-go-lucky nature.
+[3002.1s - 3004.3s] SPEAKER_08: could take the climate of the Miller home.
+[3004.7s - 3005.3s] SPEAKER_08: Better.
+[3005.7s - 3008.8s] SPEAKER_08: and we hope you flourished in the McDonald household.
+[3010.1s - 3022.1s] SPEAKER_00: Wow. Wow. So she's basically saying to you, you may have actually gotten a break here being in the family.
+[3013.4s - 3013.8s] SPEAKER_08: Yeah.
+[3022.1s - 3023.6s] SPEAKER_08: I lucked out. I lucked out.
+[3025.2s - 3032.7s] SPEAKER_00: I mean, are there times when you feel a little bit guilty about kind of having lucked out with the home that was, you know, maybe a little bit easier to grow up in?
+[3035.5s - 3037.4s] SPEAKER_08: Well, sure. I guess you do.
+[3038.4s - 3043.7s] SPEAKER_08: a little bit of guilt, but it's not my fault. There was nothing, I didn't have anything to do with it.
+[3045.1s - 3050.1s] SPEAKER_08: My sister Faith called and she was talking about the way her mother would talk to her. And I'm thinking.
+[3050.4s - 3052.7s] SPEAKER_08: How would I have survived with that kind of upbringing?
+[3053.7s - 3055.5s] SPEAKER_08: You know, and I didn't grow up like that at all.
+[3056.2s - 3058.1s] SPEAKER_08: I don't know how I would have survived.
+[3059.0s - 3062.9s] SPEAKER_00: But Sue says there are a lot of things she missed out on, too, by not growing up with the Millers.
+[3063.5s - 3068.1s] SPEAKER_00: The family did all kinds of hobbies, painting and rock polishing and 3D photography.
+[3068.2s - 3075.4s] SPEAKER_00: They had dogs and raised angora rabbits. All sorts of interesting people came through the house, guests from out of town and missionaries.
+[3075.8s - 3078.5s] SPEAKER_00: It was a different way of living, one that she admires.
+[3079.4s - 3080.2s] SPEAKER_00: As for Marty,
+[3080.6s - 3083.9s] SPEAKER_00: She doesn't like to dwell on the notion that Sue might have been the one who lucked out.
+[3084.8s - 3088.1s] SPEAKER_00: Does the thought ever cross your mind?
+[3089.4s - 3099.5s] SPEAKER_00: What if the switch hadn't been made? What if the McDonald's had just taken me home and I had grown up in the house with my biological parents, my biological brother? Who would I be?
+[3100.2s - 3102.3s] SPEAKER_03: Oh, that's a funny question.
+[3103.3s - 3104.7s] SPEAKER_03: I really, um,
+[3107.5s - 3114.5s] SPEAKER_03: I really only thought about that one time. I only let myself think about it one time. It was actually right after I met them.
+[3115.4s - 3121.0s] SPEAKER_03: And I was going back to my mother's house, so I left Prairie du Chien.
+[3121.6s - 3122.8s] SPEAKER_03: And I was...
+[3123.2s - 3124.2s] SPEAKER_03: driving.
+[3125.1s - 3131.2s] SPEAKER_03: And it was then that I started thinking, oh, my gosh, you know, my life would have been so different.
+[3132.7s - 3139.6s] SPEAKER_03: And the more I thought about it, the more I realized, you know, I can't think about this because it'll drive me crazy if I do.
+[3142.0s - 3150.2s] SPEAKER_03: And so I kind of made a promise to myself that I would just never go down that road again, that I was not going to.
+[3152.6s - 3154.2s] SPEAKER_03: Just not going to go there.
+[3157.0s - 3160.2s] SPEAKER_03: And I really haven't because there's no point.
+[3169.8s - 3172.8s] SPEAKER_00: It's pretty rare that Marty and Sue actually meet face-to-face.
+[3173.4s - 3178.8s] SPEAKER_00: Once every few years, they get together for a large family gathering, a wedding, a graduation, a funeral.
+[3179.4s - 3182.6s] SPEAKER_00: This summer, Bob McDonald's younger son got married in Prairie du Chien.
+[3183.9s - 3186.7s] SPEAKER_00: When Marty showed up at the house for brunch the day after the wedding,
+[3187.1s - 3190.6s] SPEAKER_00: She couldn't have seen more at home with the family that she didn't meet until her 40s.
+[3191.1s - 3194.5s] SPEAKER_00: She teased the groom and handed Bob's older son a present for his baby.
+[3195.1s - 3195.9s] SPEAKER_02: It's a little late.
+[3196.0s - 3197.0s] SPEAKER_02: I don't know.
+[3197.3s - 3201.7s] SPEAKER_02: This is for your child. It's before kindergarten, so it's okay.
+[3199.3s - 3199.4s] SPEAKER_03: Thank you.
+[3199.5s - 3199.6s] SPEAKER_03: Thank you.
+[3200.6s - 3201.0s] SPEAKER_03: So it's...
+[3201.0s - 3201.5s] SPEAKER_00: Okay.
+[3203.1s - 3205.2s] SPEAKER_02: Yeah, so it's a birthday present.
+[3205.9s - 3208.4s] SPEAKER_00: When Sue arrived, she slipped in quietly.
+[3208.6s - 3215.1s] SPEAKER_00: This was the side of the family she was raised with, but she seemed tense, watching as Marty made the rounds, everybody laughing.
+[3216.1s - 3218.6s] SPEAKER_00: Having the two of them so near each other was a little awkward.
+[3218.9s - 3222.0s] SPEAKER_00: People were definitely aware whenever both women were in the same room.
+[3222.8s - 3226.0s] SPEAKER_00: at one point toward the end of the party, as Sue stood nearby.
+[3226.2s - 3239.4s] SPEAKER_00: Marty started talking about the room that she had grown up in, in the Miller household. All the girls were in the same room. Marty shared a bed with her sister Faith and had to crawl through this vent to get to the bathroom at night because Faith would block the doorway to the hall.
+[3239.7s - 3243.3s] SPEAKER_03: So instead of going in the hall and going out, we would crawl through the register.
+[3242.5s - 3243.3s] SPEAKER_17: To the register.
+[3243.3s - 3243.8s] SPEAKER_17: away
+[3243.8s - 3245.3s] SPEAKER_03: Going the wrong way.
+[3244.4s - 3245.3s] SPEAKER_17: The record.
+[3245.5s - 3253.1s] SPEAKER_03: Well, my sisters had this crazy thing going on when Faith was a teenager. She would push the dresser and the cedar chest.
+[3253.5s - 3254.5s] SPEAKER_03: against the door.
+[3255.5s - 3256.5s] SPEAKER_03: In the room, you...
+[3256.5s - 3256.5s] SPEAKER_08: Thank you.
+[3256.5s - 3256.9s] SPEAKER_03: were in
+[3256.9s - 3257.0s] SPEAKER_08: you
+[3257.0s - 3257.4s] SPEAKER_03: mean
+[3257.5s - 3257.5s] SPEAKER_03: Thank you.
+[3257.8s - 3261.2s] SPEAKER_00: That's Sue. It was the first time I'd seen them talk to each other.
+[3261.5s - 3266.6s] SPEAKER_03: Yeah, in the room that we slept in. So then you go through the register to get to the bathroom.
+[3265.6s - 3266.6s] SPEAKER_01: get to the bathroom.
+[3266.6s - 3267.2s] SPEAKER_01: He had to go.
+[3267.2s - 3267.6s] SPEAKER_02: under the
+[3267.6s - 3268.1s] SPEAKER_03: bed and
+[3267.6s - 3267.8s] SPEAKER_02: BAD-
+[3267.8s - 3267.8s] SPEAKER_01: Thank you.
+[3267.8s - 3267.8s] SPEAKER_02: Thank you.
+[3267.8s - 3267.9s] SPEAKER_01: Thank you.
+[3267.9s - 3268.5s] SPEAKER_02: YOU.
+[3268.5s - 3269.9s] SPEAKER_01: It's like a dog door. Like,
+[3269.7s - 3269.7s] SPEAKER_03: Thank you.
+[3269.7s - 3271.0s] SPEAKER_02: Exactly!
+[3271.7s - 3273.5s] SPEAKER_02: Yeah, it was like a dog door.
+[3273.5s - 3273.5s] SPEAKER_01: Thank you.
+[3274.0s - 3277.4s] SPEAKER_01: Just out of curiosity, what was your room like?
+[3274.7s - 3275.7s] SPEAKER_02: And what was your...
+[3277.1s - 3277.3s] SPEAKER_02: like
+[3277.4s - 3277.7s] SPEAKER_02: WHAT?
+[3277.7s - 3277.7s] SPEAKER_01: Thank you.
+[3279.9s - 3279.9s] SPEAKER_02: Thank you.
+[3279.9s - 3280.0s] SPEAKER_08: You
+[3280.0s - 3280.9s] SPEAKER_02: You're at your own room!
+[3280.9s - 3283.0s] SPEAKER_08: Didn't you honor him? Yes, I did.
+[3281.0s - 3281.5s] SPEAKER_02: Didn't you all?
+[3281.5s - 3281.7s] SPEAKER_01: RIP
+[3281.7s - 3281.9s] SPEAKER_02: Yeah.
+[3281.9s - 3282.0s] SPEAKER_01: Thank you.
+[3282.0s - 3282.0s] SPEAKER_02: Thank you.
+[3283.2s - 3285.1s] SPEAKER_08: In my own bed too, everything.
+[3285.1s - 3286.8s] SPEAKER_02: What are you talking about?
+[3287.5s - 3289.7s] SPEAKER_02: Yeah, whatever. It was a different life.
+[3291.2s - 3293.6s] SPEAKER_00: Mrs. Miller says she worries for Marty and Sue.
+[3293.7s - 3295.7s] SPEAKER_00: about whether they'll ever truly get along.
+[3296.7s - 3300.1s] SPEAKER_00: But there's no question things have gotten better between the two girls and their moms.
+[3301.1s - 3303.9s] SPEAKER_00: Kay McDonald is still tight with Sue, the daughter she raised.
+[3304.4s - 3306.1s] SPEAKER_00: but she's also much closer with Marty.
+[3306.8s - 3310.0s] SPEAKER_00: Kay and Marty both cried when Marty left the wedding for California.
+[3310.9s - 3312.7s] SPEAKER_00: And things are good with Mrs. Miller, too.
+[3313.4s - 3319.6s] SPEAKER_00: Marty's accepted that despite some of the clumsy things that her mother said and did when she broke the news to her, she meant well.
+[3320.6s - 3324.2s] SPEAKER_00: Marty calls Mrs. Miller once a week to check up on her, just like Sue does.
+[3325.4s - 3331.5s] SPEAKER_00: Now that the big family questions are mostly worked out, one of the toughest things both Marty and Sue have to deal with is logistical.
+[3332.2s - 3337.0s] SPEAKER_00: Having two sets of parents and two full sets of siblings and cousins is kind of a practical headache.
+[3337.8s - 3341.3s] SPEAKER_00: There are birthdays and graduations and figuring out where to spend holidays.
+[3342.1s - 3344.5s] SPEAKER_00: Earlier this month, Sue's daughter got married in Michigan.
+[3345.1s - 3347.8s] SPEAKER_00: All the Millers were invited, and all the McDonald's were too.
+[3348.6s - 3350.2s] SPEAKER_00: Marty considered whether she should go,
+[3350.9s - 3355.1s] SPEAKER_00: She didn't grow up with Sue, after all, and she's not actually related to her or to her kids.
+[3355.6s - 3357.0s] SPEAKER_00: But in the end, she made the trip.
+[3358.0s - 3360.0s] SPEAKER_00: because she's a Miller, and so is Sue.
+[3360.7s - 3361.9s] SPEAKER_00: And she's a McDonald.
+[3362.5s - 3363.2s] SPEAKER_00: And so is Sue.
+[3373.9s - 3390.0s] SPEAKER_10: Jake Halpern, he's the creator of the new comic, Welcome to the New World, a true story of a refugee family from Syria, which runs weekly in The New York Times. Since we first broadcast this story in 2008, the mom who knew about the baby switch at the time, Mary Kay Miller, has died. She was 98 years old.
+[3397.9s - 3399.6s] SPEAKER_14: Hello, mother.
+[3400.1s - 3400.4s] SPEAKER_14: Thank you.
+[3400.7s - 3401.5s] SPEAKER_14: Motherf-
+[3402.7s - 3404.6s] SPEAKER_14: I done made it all
+[3404.7s - 3405.4s] SPEAKER_14: Oh, my God.
+[3406.3s - 3409.7s] SPEAKER_14: Hello, mother. Hello, mother.
+[3410.6s - 3412.6s] SPEAKER_14: Out of bed, oh
+[3412.6s - 3412.6s] SPEAKER_14: Thank you.
+[3413.0s - 3453.1s] SPEAKER_10: Our program was produced today by Jane Marie and myself. Our staff for today's show includes Alex Bloomberg, Sarah Koenig, Seth Lind, Lisa Pollack, Robin Simeon, Alyssa Shipp, Matt Tierney, Nancy Updike, and Diane Wu. Our senior producer for this episode is Julie Snyder. Music help from Jessica Hopper. Special thanks today to Sherry Weaver, J.R. Nelson, and Greg Williams. Thanks especially to the McDonald and Miller families for letting us into their homes and telling their stories. Our website, thisamericanlife.org. This American Life is delivered to public radio stations by PRX, the Public Radio Exchange. Thanks as always to our program's co-founder, Mr. Tony Malatia. You know, to run a big radio station was not always the dream job that he wanted. No, no, no.
+[3453.7s - 3454.7s] SPEAKER_10: His heart was elsewhere.
+[3454.8s - 3456.9s] SPEAKER_08: I tried out for cheerleading. I just couldn't do it.
+[3457.4s - 3460.3s] SPEAKER_08: And I wanted to be a cheerleader. You know, I didn't get picked.
+[3460.4s - 3464.0s] SPEAKER_10: I'm Ira Glass. Back next week with more stories of This American Life.
+[3464.0s - 3464.1s] SPEAKER_08: Thank you.
+[3464.1s - 3466.2s] SPEAKER_15: Won't your family make you cry sometimes?
+[3467.1s - 3467.4s] SPEAKER_15: Bye.
+[3468.0s - 3470.2s] SPEAKER_15: Want to chill and make their pride some time.
+[3471.2s - 3471.4s] SPEAKER_15: Thank you.
+[3472.1s - 3474.1s] SPEAKER_15: Your bombs and rebounds.
+[3476.2s - 3477.9s] SPEAKER_15: And they want some knives.
+[3480.4s - 3481.6s] SPEAKER_15: Ain't that alright?
